@@ -7,13 +7,13 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 #### 1. Vowels
 
-| Type | Rule | Examples |
-| :--- | :--- | :--- |
-| **a, e, i, o, u** | **Long** when followed by single consonant or 'h' | *Hase*, *gehen*, *ihm* |
+| Type              | Rule                                                               | Examples                  |
+|:------------------|:-------------------------------------------------------------------|:--------------------------|
+| **a, e, i, o, u** | **Long** when followed by single consonant or 'h'                  | *Hase*, *gehen*, *ihm*    |
 | **a, e, i, o, u** | **Short** when followed by double consonant or multiple consonants | *Mann*, *Bett*, *trinken* |
-| **ä** | Sounds like 'e' in 'bed' | *Mädchen*, *spät* |
-| **ö** | Sound between 'o' and 'e' | *schön*, *hören* |
-| **ü** | Sound between 'u' and 'i' | *für*, *Tür* |
+| **ä**             | Sounds like 'e' in 'bed'                                           | *Mädchen*, *spät*         |
+| **ö**             | Sound between 'o' and 'e'                                          | *schön*, *hören*          |
+| **ü**             | Sound between 'u' and 'i'                                          | *für*, *Tür*              |
 
 #### 2. Diphthongs
 
@@ -26,16 +26,16 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 #### 3. Consonants
 
-| Letter | Rule | Examples |
-| :--- | :--- | :--- |
-| **ch** | After **a, o, u, au**: harsh, guttural (like Scottish 'loch') | *ach*, *noch* |
-| **ch** | After **e, i, ä, ö, ü**: soft, forward (like 'h' in 'hew') | *ich*, *nicht* |
-| **s** | At beginning or before vowel: sounds like 'z' | *sehen*, *Rose* |
-| **s** | Otherwise: soft 's' | *das*, *ist* |
-| **ß** | Sharp 's' sound (often replaced with **ss**) | *weiß*, *groß* |
-| **z** | Always sounds like 'ts' | *Zeit*, *Katze* |
-| **w** | Sounds like 'v' in 'vet' | *was*, *wer* |
-| **v** | Sounds like 'f' in 'fast' | *Vater*, *von* |
+| Letter | Rule                                                          | Examples        |
+|:-------|:--------------------------------------------------------------|:----------------|
+| **ch** | After **a, o, u, au**: harsh, guttural (like Scottish 'loch') | *ach*, *noch*   |
+| **ch** | After **e, i, ä, ö, ü**: soft, forward (like 'h' in 'hew')    | *ich*, *nicht*  |
+| **s**  | At beginning or before vowel: sounds like 'z'                 | *sehen*, *Rose* |
+| **s**  | Otherwise: soft 's'                                           | *das*, *ist*    |
+| **ß**  | Sharp 's' sound (often replaced with **ss**)                  | *weiß*, *groß*  |
+| **z**  | Always sounds like 'ts'                                       | *Zeit*, *Katze* |
+| **w**  | Sounds like 'v' in 'vet'                                      | *was*, *wer*    |
+| **v**  | Sounds like 'f' in 'fast'                                     | *Vater*, *von*  |
 
 ---
 
@@ -95,12 +95,12 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 #### 9. Verb Position
 
-| Sentence Type | Rule | Example |
-| :--- | :--- | :--- |
-| **Main clause** | Verb in 2nd position | *Ich **komme** aus Deutschland.* |
-| **Time first** | Verb still 2nd position | *Heute **lerne** ich Deutsch.* |
-| **Yes/No question** | Verb in 1st position | ***Kommst** du aus Deutschland?* |
-| **W-Question** | Question word 1st, verb 2nd | ***Wo** **wohnst** du?* |
+| Sentence Type       | Rule                        | Example                          |
+|:--------------------|:----------------------------|:---------------------------------|
+| **Main clause**     | Verb in 2nd position        | *Ich **komme** aus Deutschland.* |
+| **Time first**      | Verb still 2nd position     | *Heute **lerne** ich Deutsch.*   |
+| **Yes/No question** | Verb in 1st position        | ***Kommst** du aus Deutschland?* |
+| **W-Question**      | Question word 1st, verb 2nd | ***Wo** **wohnst** du?*          |
 
 ---
 
