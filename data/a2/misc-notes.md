@@ -15,20 +15,20 @@ consider the noun's **case** (nominative, accusative, dative) and its **gender**
 ### 2. The Rule for "mein-"
 The grammar block uses "mein-" as an example to show how the endings change in each case.
 
-| Case | Noun's Gender | Possessive Article Ending | Example |
-| :--- | :--- | :--- | :--- |
-| **Nominative** | Masculine | **-** (no ending) | `mein` **Vater** |
-| (Subject) | Feminine | **-e** | `mein`**e** **Mutter** |
-| | Neuter | **-** (no ending) | `mein` **Kind** |
-| | Plural | **-e** | `mein`**e** **Freunde** |
-| **Accusative** | Masculine | **-en** | `mein`**en** **Vater** |
-| (Direct Object) | Feminine | **-e** | `mein`**e** **Mutter** |
-| | Neuter | **-** (no ending) | `mein` **Kind** |
-| | Plural | **-e** | `mein`**e** **Freunde** |
-| **Dative** | Masculine | **-em** | `mein`**em** **Vater** |
-| (Indirect Object) | Feminine | **-er** | `mein`**er** **Mutter** |
-| | Neuter | **-em** | `mein`**em** **Kind** |
-| | Plural | **-en** | `mein`**en** **Freunden** |
+| Case              | Noun's Gender | Possessive Article Ending | Example                   |
+|:------------------|:--------------|:--------------------------|:--------------------------|
+| **Nominative**    | Masculine     | **-** (no ending)         | `mein` **Vater**          |
+| (Subject)         | Feminine      | **-e**                    | `mein`**e** **Mutter**    |
+|                   | Neuter        | **-** (no ending)         | `mein` **Kind**           |
+|                   | Plural        | **-e**                    | `mein`**e** **Freunde**   |
+| **Accusative**    | Masculine     | **-en**                   | `mein`**en** **Vater**    |
+| (Direct Object)   | Feminine      | **-e**                    | `mein`**e** **Mutter**    |
+|                   | Neuter        | **-** (no ending)         | `mein` **Kind**           |
+|                   | Plural        | **-e**                    | `mein`**e** **Freunde**   |
+| **Dative**        | Masculine     | **-em**                   | `mein`**em** **Vater**    |
+| (Indirect Object) | Feminine      | **-er**                   | `mein`**er** **Mutter**   |
+|                   | Neuter        | **-em**                   | `mein`**em** **Kind**     |
+|                   | Plural        | **-en**                   | `mein`**en** **Freunden** |
 
 ***
 ### 3. Important Points to Remember
@@ -40,6 +40,8 @@ This section gives you some helpful shortcuts for learning the system.
 * **Watch out for the dative plural.** You must always add an **-n** to the end of the noun itself, in addition to the 
   **-en** ending on the possessive article (e.g., `meinen Freund**en**`).
 * **The system is exactly the same for all possessive articles** (`dein-`, `sein-`, `ihr-`, `unser-`, etc.).
+* Remember that the verb `helfen` always takes the dative case. The accusative masculine ending is `-en` (like in den),
+  but the dative masculine ending is `-em` (like in dem) (Ich helfe `meinem` Freund and not Ich helfe `meinen` Freund).
 
 **In summary:** Once you learn the endings for `mein-`, you know the endings for all of them. You just need to change 
 the stem (`mein-`, `dein-`, `sein-`) to match the person who owns the object.
