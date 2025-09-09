@@ -2,7 +2,8 @@
 
 ### B1 German Cheat Sheet: Application & Fluency
 
-Here is a cheat sheet for the **B1 German language level**, which builds on the A2 foundation by introducing more nuanced grammar and verb forms.
+Here is a cheat sheet for the **B1 German language level**, which builds on the A2 foundation by introducing more 
+nuanced grammar and verb forms.
 
 ---
 
@@ -67,7 +68,8 @@ These send the verb to the end of the clause.
 
 #### 6. Relative Clauses
 
-These clauses provide more information about a noun. The relative pronoun matches the gender, number, and case of the noun within the new clause.
+These clauses provide more information about a noun. The relative pronoun matches the gender, number, and case of the 
+noun within the new clause.
 
 | Gender/Case | Relative Pronoun | Example |
 | :--- | :--- | :--- |
@@ -105,7 +107,9 @@ The passive voice focuses on the action rather than who performs it.
 
 ## Case Mastery
 
-At this level, you're not learning new fundamental rules for accusative and dative. You are expected to use them correctly and automatically in more complex situations. The goal is to stop thinking about the rules and start using them instinctively.
+At this level, you're not learning new fundamental rules for accusative and dative. You are expected to use them 
+correctly and automatically in more complex situations. The goal is to stop thinking about the rules and start using 
+them instinctively.
 
 #### 9. Advanced Case Applications
 
@@ -122,4 +126,3 @@ At this level, you're not learning new fundamental rules for accusative and dati
 | **Multiple adjectives** | All adjectives take same ending | *ein **großer**, **schöner** Garten* |
 | **Compound objects** | Each object follows its own case rule | *Ich gebe **dem Kind** (dative) **das Buch** (accusative).* |
 | **Prepositional phrases** | Preposition determines case throughout phrase | *in **dem schönen, alten** Haus* (all dative) |
-

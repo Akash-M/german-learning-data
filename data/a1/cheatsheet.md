@@ -1,6 +1,7 @@
 ### A1 German Cheat Sheet: The Basics
 
-For the A1 German language level, you'll need to know the fundamentals of pronunciation, sentence structure, and grammar. This cheat sheet covers the key rules and concepts you should be familiar with.
+For the A1 German language level, you'll need to know the fundamentals of pronunciation, sentence structure, and 
+grammar. This cheat sheet covers the key rules and concepts you should be familiar with.
 
 ## Pronunciation
 

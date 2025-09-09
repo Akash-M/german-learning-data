@@ -1,6 +1,7 @@
 ### A2 German Cheat Sheet: The Cases
 
-Since my previous response was for the A1 level, here is a cheat sheet for the **A2 German language level**. The A2 level builds on the basics, introducing more complex sentence structures and grammar concepts.
+Since my previous response was for the A1 level, here is a cheat sheet for the **A2 German language level**. The A2 
+level builds on the basics, introducing more complex sentence structures and grammar concepts.
 
 ---
 
@@ -10,7 +11,8 @@ At the A2 level, you'll learn to connect ideas and form more complex sentences.
 
 #### 1. Subordinating Conjunctions
 
-These words link a main clause to a subordinate clause. The conjugated verb in the subordinate clause moves to the **end**.
+These words link a main clause to a subordinate clause. The conjugated verb in the subordinate clause moves to the 
+**end**.
 
 | Conjunction | Meaning | Example | Verb Position |
 | :--- | :--- | :--- | :--- |
@@ -164,9 +166,9 @@ These words lock the noun into a specific case.
 
 | Preposition Type | Prepositions | Case | Article Rule |
 | :--- | :--- | :--- | :--- |
-| **Always Akkusativ** | **durch, für, gegen, ohne, um** | **Akkusativ** | **der** → **den** (all others stay the same) |
+| **Always Akkusativ** | **durch, für, gegen, ohne, um** | **Akkusativ** | **der** → **den** (others same) |
 | **Always Dativ** | **aus, bei, mit, nach, seit, von, zu** | **Dativ** | **der** → **dem**, **die** → **der**, **das** → **dem** |
-| **Two-Way** | **an, auf, hinter, in, neben, über, unter, vor, zwischen** | **Akkusativ** (for movement) **or Dativ** (for location) | **"wohin?"** (where to?) → Akkusativ <br> **"wo?"** (where?) → Dativ |
+| **Two-Way** | **an, auf, hinter, in, neben, über, unter, vor, zwischen** | **Akkusativ** (movement) or **Dativ** (location) | **"wohin?"** → Akkusativ <br> **"wo?"** → Dativ |
 
 #### 17. Dative Endings (Possessive Pronouns)
 
