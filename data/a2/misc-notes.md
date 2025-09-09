@@ -1,3 +1,7 @@
+# Misc Notes for A2 Level
+
+## Possessive Articles (Possessivartikel)
+
 This grammar block explains the rules for **possessive articles** (`Possessivartikel`), which are words like 
 `my`, `your`, `his`, etc., in German.
 

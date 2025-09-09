@@ -138,10 +138,10 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 #### 13. Negation
 
-| Type | Negation Word | Usage                                     | Example |
-| :--- | :--- |:------------------------------------------| :--- |
-| **Verbs/Adjectives** | **nicht** | After conjugated verb or before adjective | *Ich **komme** **nicht**.* |
-| **Nouns** | **kein/keine** | Replaces indefinite article               | *Ich habe **kein** Auto.* |
+| Type                 | Negation Word  | Usage                                     | Example                    |
+|:---------------------|:---------------|:------------------------------------------|:---------------------------|
+| **Verbs/Adjectives** | **nicht**      | After conjugated verb or before adjective | *Ich **komme** **nicht**.* |
+| **Nouns**            | **kein/keine** | Replaces indefinite article               | *Ich habe **kein** Auto.*  |
 
 ---
 

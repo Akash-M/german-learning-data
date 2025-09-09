@@ -49,7 +49,6 @@ This is a conceptual rule that works for verbs that have two objects.
 * **The book** is the direct object (**Akkusativ**).
 * **The man** is the indirect object (**Dativ**).
 
-
 ---
 Questions
 
@@ -94,3 +93,18 @@ Think of it as giving a gift. The person is the recipient of the answer.
 
 This is a great example of why it's so important to learn which case a verb takes. Once you know the case, the rest of 
 the sentence becomes much more logical.
+
+---
+
+## Definite Articles (Bestimmte Artikel)
+
+Here is a simple table summarizing the German definite articles `der`, `den`, and `das` for all four cases.
+
+This table shows how the word for "**the**" changes based on the noun's gender and role in the sentence.
+
+| Case           | Masculine (`der`) | Feminine (`die`) | Neuter (`das`) | Plural (`die`) |
+|:---------------|:------------------|:-----------------|:---------------|:---------------|
+| **Nominative** | **der**           | die              | **das**        | die            |
+| **Akkusativ**  | **den**           | die              | **das**        | die            |
+| **Dativ**      | **dem**           | der              | **dem**        | den            |
+| **Genitive**   | **des**           | der              | **des**        | der            |
