@@ -3,7 +3,9 @@
 ---
 
 ## 1. Vowels (Long vs Short)
-Fill in the missing vowel(s). Remember that long vowels often appear with a single consonant, while short vowels are typically followed by a double consonant. Pay close attention to the spelling and sound. The sounds are a crucial part of knowing the difference.
+Fill in the missing vowel(s). Remember that long vowels often appear with a single consonant, while short vowels are
+typically followed by a double consonant. Pay close attention to the spelling and sound. The sounds are a crucial part
+of knowing the difference.
 1. H__s e (Hase)
 2. M__nn (Mann)
 3. B__tt (Bett)
@@ -40,7 +42,9 @@ Answers: 1. a 2. a 3. e 4. ä 5. ü 6. o 7. i 8. u 9. a 10. e 11. e 12. u 13. e 
 ---
 
 ## 2. Diphthongs
-Fill in the correct diphthong: ei / ie / au / eu / äu. Remember that diphthongs are vowel combinations that create a single sound. The spelling of these combinations is very specific and must be memorized to ensure correct pronunciation. Diphthongs are a crucial part of German phonetics.
+Fill in the correct diphthong: ei / ie / au / eu / äu. Remember that diphthongs are vowel combinations that create a
+single sound. The spelling of these combinations is very specific and must be memorized to ensure correct
+pronunciation. Diphthongs are a crucial part of German phonetics.
 1. n__n (no)
 2. s__ (she)
 3. H__s (house)
@@ -77,7 +81,9 @@ Answers: 1. ei 2. ie 3. au 4. eu 5. äu 6. eu 7. ei 8. eu 9. ie 10. ein 11. eu 1
 ---
 
 ## 3. Consonants
-Insert the correct consonant group (ch / s / ß / z / w / v). Remember that consonant sounds can change based on their position in a word. For instance, the letter "s" can be pronounced like a "z" at the beginning of a word. Pay attention to the spelling and sound of each word.
+Insert the correct consonant group (ch / s / ß / z / w / v). Remember that consonant sounds can change based on their
+position in a word. For instance, the letter "s" can be pronounced like a "z" at the beginning of a word. Pay attention
+to the spelling and sound of each word.
 1. I__ bin müde.
 2. Da__ ist der Park.
 3. Er lernt Deut__land kennen.
@@ -114,7 +120,9 @@ Answers: 1. ch 2. s 3. Deutsch (sch already there; focus: land—Accept 'Deutsch
 ---
 
 ## 4. Gender and Articles
-Fill in **der / die / das**. Remember that every German noun has a gender: masculine (der), feminine (die), or neuter (das). You must memorize the article for each noun, as there's no reliable way to guess. The article changes based on the case, but for these examples, the nominative case is used.
+Fill in **der / die / das**. Remember that every German noun has a gender: masculine (der), feminine (die), or
+neuter (das). You must memorize the article for each noun, as there's no reliable way to guess. The article changes
+based on the case, but for these examples, the nominative case is used.
 1. __ Mann sitzt.
 2. __ Frau lernt Deutsch.
 3. __ Kind spielt.
@@ -151,7 +159,9 @@ Answers: 1. der 2. die 3. das 4. die 5. das 6. der 7. die 8. das 9. der 10. die 
 ---
 
 ## 5. Plural Forms
-Write the plural (use given vocab). Note that the plural article is always **die**. The noun itself, however, can change in many ways, including adding a suffix (-e, -n, -en, -er, -s), an umlaut, or both. There's no universal rule, so it's best to learn the plural form along with the singular noun.
+Write the plural (use given vocab). Note that the plural article is always **die**. The noun itself, however, can
+change in many ways, including adding a suffix (-e, -n, -en, -er, -s), an umlaut, or both. There's no universal rule,
+so it's best to learn the plural form along with the singular noun.
 1. der Tag → die ____
 2. die Frau → die ____
 3. das Kind → die ____
@@ -188,7 +198,9 @@ Answers: 1. Tage 2. Frauen 3. Kinder 4. Hunde 5. Lehrer 6. Bücher 7. Tische 8. 
 ---
 
 ## 6. Nominative vs Accusative Articles
-Fill in **der / den / die / das**. The case of a noun depends on its function in the sentence. The nominative case is for the subject (who is doing the action), and the accusative case is for the direct object (who or what is receiving the action). Remember, only the masculine article changes from "der" to "den" in the accusative case.
+Fill in **der / den / die / das**. The case of a noun depends on its function in the sentence. The nominative case is
+for the subject (who is doing the action), and the accusative case is for the direct object (who or what is
+receiving the action). Remember, only the masculine article changes from "der" to "den" in the accusative case.
 1. Ich sehe ___ Mann.
 2. ___ Mann sieht das Kind.
 3. Wir haben ___ Auto.
@@ -225,7 +237,8 @@ Answers: 1. den 2. Der 3. das 4. die 5. Das 6. Der 7. den 8. die 9. Der 10. das 
 ---
 
 ## 7. Regular Verb Conjugation (machen)
-Conjugate **machen**. Regular verbs follow a predictable pattern. You take the verb stem and add the appropriate ending for each person. This is a crucial skill for forming basic sentences.
+Conjugate **machen**. Regular verbs follow a predictable pattern. You take the verb stem and add the appropriate
+ending for each person. This is a crucial skill for forming basic sentences.
 1. Ich ___ Hausaufgabe.
 2. Du ___ Sport.
 3. Er ___ Kaffee.
@@ -262,7 +275,9 @@ Answers: 1. mache 2. machst 3. macht 4. machen 5. macht 6. machen 7. mache 8. ma
 ---
 
 ## 8. Irregular Verbs (sein / haben)
-Fill in the correct form. The verbs **sein** (to be) and **haben** (to have) are highly irregular and are used constantly in German. You must memorize their conjugations perfectly. They are essential for forming sentences at every level.
+Fill in the correct form. The verbs **sein** (to be) and **haben** (to have) are highly irregular and are used
+constantly in German. You must memorize their conjugations perfectly. They are essential for forming sentences at
+every level.
 1. Ich ___ Student.
 2. Wir ___ eine Lampe.
 3. Er ___ müde, denn er arbeitet.
@@ -299,7 +314,9 @@ Answers: 1. bin 2. haben 3. ist 4. habe 5. sind / haben 6. sind 7. habe 8. bist 
 ---
 
 ## 9. Verb Position
-Put the verb in the correct place (write only the conjugated verb in the blank). The conjugated verb is typically in the second position in a main clause. In a yes/no question, the conjugated verb moves to the first position. In a sentence starting with a "W-word," the verb is in the second position, right after the question word.
+Put the verb in the correct place (write only the conjugated verb in the blank). The conjugated verb is typically in
+the second position in a main clause. In a yes/no question, the conjugated verb moves to the first position. In a
+sentence starting with a "W-word," the verb is in the second position, right after the question word.
 1. Heute ___ ich Deutsch. (lernen)
 2. Morgen ___ wir nach Berlin. (fahren)
 3. ___ du aus der Stadt? (kommst / question)
@@ -336,7 +353,9 @@ Answers: 1. lerne 2. fahren 3. Kommst 4. wohnt 5. trinke 6. gehen 7. sind 8. iss
 ---
 
 ## 10. Accusative Prepositions
-Fill in the correct accusative preposition: **durch / für / gegen / ohne / um**. These prepositions always require the noun that follows them to be in the accusative case. They express a variety of relationships, such as "through," "for," "against," "without," and "around."
+Fill in the correct accusative preposition: **durch / für / gegen / ohne / um**. These prepositions always require
+the noun that follows them to be in the accusative case. They express a variety of relationships, such as "through," 
+"for," "against," "without," and "around."
 1. Ich gehe ___ die Stadt.
 2. Das Geschenk ist ___ meine Mutter.
 3. Er lernt ___ Pause.
@@ -373,7 +392,10 @@ Answers: 1. durch 2. für 3. ohne 4. um 5. ohne 6. durch 7. für 8. gegen 9. ohn
 ---
 
 ## 11. Two-Way Prepositions (Acc vs Dative)
-Choose the correct case (Accusative or Dative) and fill in the article or its contraction (**in dem = im / in das = ins**). Two-way prepositions can take either the accusative case (for movement or direction) or the dative case (for static location). Ask yourself, "Where is the action going? (Wohin? - Accusative)" or "Where is it located? (Wo? - Dative)."
+Choose the correct case (Accusative or Dative) and fill in the article or its contraction
+(**in dem = im / in das = ins**). Two-way prepositions can take either the accusative case (for movement or direction)
+or the dative case (for static location). Ask yourself, "Where is the action going? (Wohin? - Accusative)" or
+"Where is it located? (Wo? - Dative)."
 1. Ich gehe ___ (in + das) Haus.
 2. Ich bin ___ (in + dem) Haus.
 3. Er legt das Buch ___ den Tisch. (auf + ?)
@@ -410,7 +432,9 @@ Answers: 1. ins 2. im 3. auf 4. auf 5. an 6. an 7. ans 8. am 9. in 10. im 11. in
 ---
 
 ## 12. Modal Verbs
-Fill in the correct conjugated modal verb (**können / müssen / möchten**) and the infinitive at the end. Modal verbs express a verb's "mood" or intention, such as ability, necessity, or desire. They are always followed by the infinitive form of the main verb at the very end of the sentence.
+Fill in the correct conjugated modal verb (**können / müssen / möchten**) and the infinitive at the end. Modal verbs
+express a verb's "mood" or intention, such as ability, necessity, or desire. They are always followed by the infinitive
+form of the main verb at the very end of the sentence.
 1. Ich ___ Deutsch ___ (sprechen).
 2. Wir ___ heute viel ___ (machen).
 3. Er ___ ein Brot ___ (essen).
@@ -447,7 +471,9 @@ Answers: 1. kann sprechen 2. müssen machen 3. möchte essen 4. muss gehen 5. m�
 ---
 
 ## 13. Negation (**nicht / kein**)
-Fill in **nicht** or **kein(e)**. The two main ways to negate a sentence in German are with **nicht** and **kein**. You use **kein** to negate nouns that have indefinite articles (ein/eine) or no article at all. You use **nicht** for almost everything else, including verbs, adjectives, prepositions, and definite articles.
+Fill in **nicht** or **kein(e)**. The two main ways to negate a sentence in German are with **nicht** and **kein**.
+You use **kein** to negate nouns that have indefinite articles (ein/eine) or no article at all. You use **nicht** for
+almost everything else, including verbs, adjectives, prepositions, and definite articles.
 1. Ich habe ___ Auto.
 2. Er kommt ___ heute.
 3. Das ist ___ Lehrer, das ist ein Student.
@@ -484,7 +510,9 @@ Answers: 1. kein 2. nicht 3. kein 4. keine 5. keine 6. nicht 7. kein 8. nicht 9.
 ---
 
 ## 14. Direction: nach vs zu
-Fill in **nach** or **zu/zum/zur**. These prepositions both mean "to," but they are used in different contexts. **Nach** is used for countries, cities, continents, and directions (left/right/home). **Zu** is used for people, places, and buildings, often with the dative article contractions **zum** (zu + dem) or **zur** (zu + der).
+Fill in **nach** or **zu/zum/zur**. These prepositions both mean "to," but they are used in different contexts.
+**Nach** is used for countries, cities, continents, and directions (left/right/home). **Zu** is used for people,
+places, and buildings, often with the dative article contractions **zum** (zu + dem) or **zur** (zu + der).
 1. Wir fahren ___ Berlin.
 2. Ich gehe ___ Hause und dann ___ dem Supermarkt.
 3. Er geht ___ Arzt.
@@ -521,7 +549,9 @@ Answers: 1. nach 2. nach / zum 3. zum 4. zur 5. nach 6. nach 7. zu 8. zum 9. nac
 ---
 
 ## 15. Possessive Pronouns
-Fill in the correct base form (**mein / dein / sein / ihr / unser / euer / ihr / Ihr**). Possessive pronouns in German must agree with the gender of the noun they modify. This exercise uses the base forms, which are the starting point for possessive pronouns.
+Fill in the correct base form (**mein / dein / sein / ihr / unser / euer / ihr / Ihr**). Possessive pronouns in
+German must agree with the gender of the noun they modify. This exercise uses the base forms, which are the starting
+point for possessive pronouns.
 1. Ich habe ___ Buch.
 2. Du hast ___ Lampe.
 3. Er besucht ___ Mutter.
