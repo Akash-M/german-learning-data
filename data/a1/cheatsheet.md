@@ -86,14 +86,14 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 | **ihr**       | *macht*     | you all make         |
 | **sie/Sie**   | *machen*    | they/you formal make |
 
-#### 8. Irregular Verbs
+#### 8. Irregular Verbs ❗❗❗
 
 | Verb                | ich    | du     | er/sie/es | wir     | ihr    | sie/Sie |
 |:--------------------|:-------|:-------|:----------|:--------|:-------|:--------|
 | **sein** (to be)    | *bin*  | *bist* | *ist*     | *sind*  | *seid* | *sind*  |
 | **haben** (to have) | *habe* | *hast* | *hat*     | *haben* | *habt* | *haben* |
 
-#### 9. Verb Position
+#### 9. Verb Position ❗❗❗
 
 | Sentence Type       | Rule                        | Example                          |
 |:--------------------|:----------------------------|:---------------------------------|
@@ -106,7 +106,7 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 ## Prepositions
 
-#### 10. Accusative Prepositions
+#### 10. Accusative Prepositions ❗❗❗
 
 | Preposition | Meaning          | Example           |
 |:------------|:-----------------|:------------------|
@@ -116,7 +116,7 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 | **ohne**    | without          | *ohne mich*       |
 | **um**      | around/at (time) | *um das Haus*     |
 
-#### 11. Two-Way Prepositions
+#### 11. Two-Way Prepositions ❗❗
 
 | Preposition | Accusative (Motion/Change)             | Dative (Static Location)            |
 |:------------|:---------------------------------------|:------------------------------------|
@@ -145,7 +145,7 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 ---
 
-#### 14. Direction: "Nach" vs. "Zu"
+#### 14. Direction: "Nach" vs. "Zu" ❗
 
 This rule helps you talk about a destination.
 
@@ -154,7 +154,7 @@ This rule helps you talk about a destination.
 | **nach** | For countries and cities without an article. Also used for "home" and cardinal directions. | **nach** Berlin, **nach** Hause, **nach** links                    |
 | **zu**   | For people, institutions, and specific events.                                             | **zum** Arzt (zu dem), **zur** Post (zu der), **zu** meinem Freund |
 
-#### 15. Possessive Pronouns (The Owner)
+#### 15. Possessive Pronouns (The Owner)❗❗
 
 To choose the right base word like `mein` or `sein`, simply think about who the owner is.
 
