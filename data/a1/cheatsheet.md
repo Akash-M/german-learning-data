@@ -17,12 +17,12 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 #### 2. Diphthongs
 
-| Combination | Sound | Examples |
-| :--- | :--- | :--- |
-| **ei** | Like 'eye' | *nein*, *mein* |
-| **ie** | Like 'ee' in 'see' | *sie*, *wie* |
-| **au** | Like 'ow' in 'how' | *Haus*, *auch* |
-| **eu/äu** | Like 'oy' in 'boy' | *Deutschland*, *Häuser* |
+| Combination | Sound              | Examples                |
+|:------------|:-------------------|:------------------------|
+| **ei**      | Like 'eye'         | *nein*, *mein*          |
+| **ie**      | Like 'ee' in 'see' | *sie*, *wie*            |
+| **au**      | Like 'ow' in 'how' | *Haus*, *auch*          |
+| **eu/äu**   | Like 'oy' in 'boy' | *Deutschland*, *Häuser* |
 
 #### 3. Consonants
 
@@ -43,22 +43,22 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 #### 4. Gender and Articles
 
-| Gender | Singular Article | Example | Plural Article | Plural Example |
-| :--- | :--- | :--- | :--- | :--- |
-| **Masculine** | *der* | *der Mann* | *die* | *die Männer* |
-| **Feminine** | *die* | *die Frau* | *die* | *die Frauen* |
-| **Neuter** | *das* | *das Kind* | *die* | *die Kinder* |
+| Gender        | Singular Article | Example    | Plural Article | Plural Example |
+|:--------------|:-----------------|:-----------|:---------------|:---------------|
+| **Masculine** | *der*            | *der Mann* | *die*          | *die Männer*   |
+| **Feminine**  | *die*            | *die Frau* | *die*          | *die Frauen*   |
+| **Neuter**    | *das*            | *das Kind* | *die*          | *die Kinder*   |
 
 #### 5. Plural Endings
 
-| Ending | Example | Rule |
-| :--- | :--- | :--- |
-| **-en** | *die Frauen* | Most feminine nouns |
-| **-e** | *die Hunde* | Many masculine nouns |
-| **-er** | *die Kinder* | Many neuter nouns (with umlaut) |
-| **-n** | *die Studenten* | Weak masculine nouns |
-| **-s** | *die Autos* | Foreign words |
-| **No change** | *die Lehrer* | Some masculine/neuter nouns |
+| Ending        | Example         | Rule                            |
+|:--------------|:----------------|:--------------------------------|
+| **-en**       | *die Frauen*    | Most feminine nouns             |
+| **-e**        | *die Hunde*     | Many masculine nouns            |
+| **-er**       | *die Kinder*    | Many neuter nouns (with umlaut) |
+| **-n**        | *die Studenten* | Weak masculine nouns            |
+| **-s**        | *die Autos*     | Foreign words                   |
+| **No change** | *die Lehrer*    | Some masculine/neuter nouns     |
 
 ---
 
@@ -66,10 +66,10 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 #### 6. Nominative vs. Accusative
 
-| Case | Function | Masculine | Feminine | Neuter | Plural |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Nominative** | Subject (who/what does action) | *der* | *die* | *das* | *die* |
-| **Accusative** | Direct object (who/what receives action) | *den* | *die* | *das* | *die* |
+| Case           | Function                                 | Masculine | Feminine | Neuter | Plural |
+|:---------------|:-----------------------------------------|:----------|:---------|:-------|:-------|
+| **Nominative** | Subject (who/what does action)           | *der*     | *die*    | *das*  | *die*  |
+| **Accusative** | Direct object (who/what receives action) | *den*     | *die*    | *das*  | *die*  |
 
 ---
 
@@ -77,21 +77,21 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 #### 7. Regular Verb Conjugation (machen)
 
-| Pronoun | Conjugation | Translation |
-| :--- | :--- | :--- |
-| **ich** | *mache* | I make |
-| **du** | *machst* | you make |
-| **er/sie/es** | *macht* | he/she/it makes |
-| **wir** | *machen* | we make |
-| **ihr** | *macht* | you all make |
-| **sie/Sie** | *machen* | they/you formal make |
+| Pronoun       | Conjugation | Translation          |
+|:--------------|:------------|:---------------------|
+| **ich**       | *mache*     | I make               |
+| **du**        | *machst*    | you make             |
+| **er/sie/es** | *macht*     | he/she/it makes      |
+| **wir**       | *machen*    | we make              |
+| **ihr**       | *macht*     | you all make         |
+| **sie/Sie**   | *machen*    | they/you formal make |
 
 #### 8. Irregular Verbs
 
-| Verb | ich | du | er/sie/es | wir | ihr | sie/Sie |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **sein** (to be) | *bin* | *bist* | *ist* | *sind* | *seid* | *sind* |
-| **haben** (to have) | *habe* | *hast* | *hat* | *haben* | *habt* | *haben* |
+| Verb                | ich    | du     | er/sie/es | wir     | ihr    | sie/Sie |
+|:--------------------|:-------|:-------|:----------|:--------|:-------|:--------|
+| **sein** (to be)    | *bin*  | *bist* | *ist*     | *sind*  | *seid* | *sind*  |
+| **haben** (to have) | *habe* | *hast* | *hat*     | *haben* | *habt* | *haben* |
 
 #### 9. Verb Position
 
@@ -108,21 +108,21 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 #### 10. Accusative Prepositions
 
-| Preposition | Meaning | Example |
-| :--- | :--- | :--- |
-| **durch** | through | *durch die Stadt* |
-| **für** | for | *für dich* |
-| **gegen** | against | *gegen die Wand* |
-| **ohne** | without | *ohne mich* |
-| **um** | around/at (time) | *um das Haus* |
+| Preposition | Meaning          | Example           |
+|:------------|:-----------------|:------------------|
+| **durch**   | through          | *durch die Stadt* |
+| **für**     | for              | *für dich*        |
+| **gegen**   | against          | *gegen die Wand*  |
+| **ohne**    | without          | *ohne mich*       |
+| **um**      | around/at (time) | *um das Haus*     |
 
 #### 11. Two-Way Prepositions
 
-| Preposition | Accusative (Motion/Change) | Dative (Static Location) |
-| :--- | :--- | :--- |
-| **in** | *Ich gehe **in** das Haus.* | *Ich bin **in** dem Haus.* |
-| **an** | *Ich hänge das Bild **an** die Wand.* | *Das Bild hängt **an** der Wand.* |
-| **auf** | *Ich lege das Buch **auf** den Tisch.* | *Das Buch liegt **auf** dem Tisch.* |
+| Preposition | Accusative (Motion/Change)             | Dative (Static Location)            |
+|:------------|:---------------------------------------|:------------------------------------|
+| **in**      | *Ich gehe **in** das Haus.*            | *Ich bin **in** dem Haus.*          |
+| **an**      | *Ich hänge das Bild **an** die Wand.*  | *Das Bild hängt **an** der Wand.*   |
+| **auf**     | *Ich lege das Buch **auf** den Tisch.* | *Das Buch liegt **auf** dem Tisch.* |
 
 ---
 
@@ -130,18 +130,18 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 #### 12. Modal Verbs
 
-| Modal Verb | Meaning | Structure | Example |
-| :--- | :--- | :--- | :--- |
-| **können** | can | Modal + infinitive at end | *Ich **kann** Deutsch **sprechen**.* |
-| **müssen** | must | Modal + infinitive at end | *Ich **muss** arbeiten **gehen**.* |
+| Modal Verb  | Meaning       | Structure                 | Example                                |
+|:------------|:--------------|:--------------------------|:---------------------------------------|
+| **können**  | can           | Modal + infinitive at end | *Ich **kann** Deutsch **sprechen**.*   |
+| **müssen**  | must          | Modal + infinitive at end | *Ich **muss** arbeiten **gehen**.*     |
 | **möchten** | would like to | Modal + infinitive at end | *Ich **möchte** ein Bier **trinken**.* |
 
 #### 13. Negation
 
-| Type | Negation Word | Usage | Example |
-| :--- | :--- | :--- | :--- |
+| Type | Negation Word | Usage                                     | Example |
+| :--- | :--- |:------------------------------------------| :--- |
 | **Verbs/Adjectives** | **nicht** | After conjugated verb or before adjective | *Ich **komme** **nicht**.* |
-| **Nouns** | **kein/keine** | Replaces indefinite article | *Ich habe **kein** Auto.* |
+| **Nouns** | **kein/keine** | Replaces indefinite article               | *Ich habe **kein** Auto.* |
 
 ---
 
@@ -149,25 +149,25 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 This rule helps you talk about a destination.
 
-| Rule | When to use | Examples |
-| :--- | :--- | :--- |
-| **nach** | For countries and cities without an article. Also used for "home" and cardinal directions. | **nach** Berlin, **nach** Hause, **nach** links |
-| **zu** | For people, institutions, and specific events. | **zum** Arzt (zu dem), **zur** Post (zu der), **zu** meinem Freund |
+| Rule     | When to use                                                                                | Examples                                                           |
+|:---------|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|
+| **nach** | For countries and cities without an article. Also used for "home" and cardinal directions. | **nach** Berlin, **nach** Hause, **nach** links                    |
+| **zu**   | For people, institutions, and specific events.                                             | **zum** Arzt (zu dem), **zur** Post (zu der), **zu** meinem Freund |
 
 #### 15. Possessive Pronouns (The Owner)
 
 To choose the right base word like `mein` or `sein`, simply think about who the owner is.
 
-| Owner | Possessive Pronoun |
-| :--- | :--- |
-| **ich** (I) | **mein-** |
-| **du** (you) | **dein-** |
-| **er** (he) | **sein-** |
-| **sie** (she) | **ihr-** |
-| **wir** (we) | **unser-** |
-| **ihr** (you pl.) | **euer-** |
-| **sie** (they) | **ihr-** |
-| **Sie** (you formal) | **Ihr-** |
+| Owner                | Possessive Pronoun |
+|:---------------------|:-------------------|
+| **ich** (I)          | **mein-**          |
+| **du** (you)         | **dein-**          |
+| **er** (he)          | **sein-**          |
+| **sie** (she)        | **ihr-**           |
+| **wir** (we)         | **unser-**         |
+| **ihr** (you pl.)    | **euer-**          |
+| **sie** (they)       | **ihr-**           |
+| **Sie** (you formal) | **Ihr-**           |
 
 ---
 
