@@ -144,3 +144,5 @@ For the B1 German level, you are expected to have a more extensive vocabulary to
 * **neugierig** (curious)
 * **schließlich** (eventually)
 * **tatsächlich** (actual)
+* **aufgrund** (because of/due to)
+* **Umstände** (circumstances)
