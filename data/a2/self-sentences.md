@@ -1,4 +1,4 @@
-Erklärung: Hier musst du die Possessivartikel selbständig einsetzen.
+Erklärung: Hier musst du die Possessiv artikel selbständig einsetzen.
 Anleitung: Schreibe zu jeder Vorgabe einen vollständigen Satz mit richtigem Possessivartikel.
 Beispiel: Vorgabe: „mein – Bruder – besuchen“ → „Ich besuche meinen Bruder.“
 
@@ -27,10 +27,12 @@ Beispiel: Vorgabe: „mein – Bruder – besuchen“ → „Ich besuche meinen 
 6.	eure – Katze – füttern -> Eure Katze isst nicht, weil sie Krank ist.
 7.	mein – Chef – erklären -> Mein Chef erklärt seinen Köchen das Rezept
 8.	sein – Buch – lesen -> Er liest ein Buch im Park.
-9.	ihre – Eltern – besuchen
-10.	dein – Hund – waschen
-11.	unser – Lehrer – fragen
-12.	meine – Oma – Blumen – schenken
+9.	ihre – Eltern – besuchen -> Ihre Eltern besuchen sie einmal pro Jahr aus Indien.
+10.	dein – Hund – waschen -> Du musst deinen Hund waschen, weil er schlecht riecht.
+11.	unser – Lehrer – fragen -> Wir fragen unseren Lehrer, wenn in der Klasse etwas nicht verstehen.
+12.	meine – Oma – Blumen – schenken -> Meine Oma schenkt ihren Freundinnen Blumen zum Muttertag.
 13.	eure – Freunde – einladen
 14.	ihr – Laptop – kaufen
 15.	mein – Sohn – Fußball – spielen
+    -> Mein Sohn spielt Fußball mit den Freunden, wenn Sommer ist.
+    -> Mein Sohn spielt Fußball, weil das sein Lieblingssport ist.
