@@ -91,8 +91,8 @@ to the spelling and sound of each word.
 5. Der __ater und die Mutter.
 6. Ich ma__e das nicht. (machen)
 7. Da__ Haus ist neu.
-8. __ie essen Reis.
-9. __eichnen ist mein Hobby.
+8. __ie essen Reis. ❗
+9. __eichnen ist mein Hobby. ❗
 10. Es ist __eit.
 11. Er i__t müde.
 12. Er __ohnt in Berlin.
@@ -104,16 +104,16 @@ to the spelling and sound of each word.
 18. Das __ind spielt.
 19. Das Ha__ ist grün.
 20. Die Frau is__t.
-21. Es __ind Vögel da.
+21. Es __ind Vögel da. ❗
 22. Sie haben __eit.
 23. Er spri__t gut.
 24. Sie trinken __asser.
 25. Das ist eine __eit.
 26. Ich __ebe Deutsch.
 27. Er i__t müde.
-28. Sie ist au__ der Schule.
+28. Sie ist au__ der Schule. ❗
 29. Ich bin mü__e.
-30. Das ist eine __ache.
+30. Das ist eine __ache. ❗
 
 Answers: 1. ch 2. s 3. Deutsch (sch already there; focus: land—Accept 'Deutsch') 4. ß 5. Vater 6. ch 7. s 8. s 9. z 10. z 11. s 12. v 13. w 14. c 15. w 16. ch 17. s 18. k 19. u 20. s 21. s 22. z 23. ch 24. w 25. z 26. l 27. s 28. s 29. d 30. s
 
@@ -130,7 +130,7 @@ based on the case, but for these examples, the nominative case is used.
 5. __ Auto ist neu.
 6. __ Tisch ist braun.
 7. __ Lampe ist hell.
-8. __ Brot ist lecker.
+8. __ Brot ist lecker. ❗
 9. __ Hund ist groß.
 10. __ Katze ist schwarz.
 11. __ Apfel ist rot.
@@ -138,21 +138,21 @@ based on the case, but for these examples, the nominative case is used.
 13. __ Buch ist alt.
 14. __ Stuhl ist klein.
 15. __ Zeitung ist interessant.
-16. __ Wasser ist kalt.
-17. __ Saft ist süß.
-18. __ Handy ist teuer.
+16. __ Wasser ist kalt. ❗
+17. __ Saft ist süß. ❗
+18. __ Handy ist teuer. ❗
 19. __ Schlüssel ist dort.
 20. __ Tür ist offen.
 21. __ Fenster ist sauber.
-22. __ Milch ist weiß.
+22. __ Milch ist weiß. ❗
 23. __ Computer ist schnell.
-24. __ Blume ist schön.
-25. __ Baum ist hoch.
-26. __ Flugzeug ist schnell.
+24. __ Blume ist schön. ❗
+25. __ Baum ist hoch. ❗
+26. __ Flugzeug ist schnell. ❗
 27. __ Schule ist alt.
-28. __ Restaurant ist gut.
+28. __ Restaurant ist gut. ❗
 29. __ Zug ist pünktlich.
-30. __ Ticket ist billig.
+30. __ Ticket ist billig. ❗
 
 Answers: 1. der 2. die 3. das 4. die 5. das 6. der 7. die 8. das 9. der 10. die 11. der 12. das 13. das 14. der 15. die 16. das 17. der 18. das 19. der 20. die 21. das 22. die 23. der 24. die 25. der 26. das 27. die 28. das 29. der 30. das
 
@@ -168,30 +168,30 @@ so it's best to learn the plural form along with the singular noun.
 4. der Hund (pattern like der Hund) → die ____ (Hunde pattern)
 5. der Lehrer → die ____
 6. das Buch → die ____
-7. der Tisch → die ____
+7. der Tisch → die ____ ❗
 8. die Lampe → die ____
-9. der Apfel → die ____
-10. das Haus → die ____
-11. der Stuhl → die ____
-12. der Baum → die ____
-13. die Stadt → die ____
+9. der Apfel → die ____ ❗
+10. das Haus → die ____ ❗
+11. der Stuhl → die ____ ❗
+12. der Baum → die ____ ❗
+13. die Stadt → die ____ ❗
 14. das Auto → die ____
-15. der Monat → die ____
-16. das Jahr → die ____
-17. der Koffer → die ____
+15. der Monat → die ____ ❗
+16. das Jahr → die ____ ❗
+17. der Koffer → die ____ ❗
 18. die Blume → die ____
 19. der Name → die ____
-20. das Mädchen → die ____
-21. der Vater → die ____
-22. die Mutter → die ____
-23. der Bruder → die ____
-24. die Schwester → die ____
+20. das Mädchen → die ____ ❗
+21. der Vater → die ____ ❗
+22. die Mutter → die ____ ❗
+23. der Bruder → die ____ ❗
+24. die Schwester → die ____ ❗
 25. die Familie → die ____
-26. der Garten → die ____
-27. das Zimmer → die ____
+26. der Garten → die ____ ❗
+27. das Zimmer → die ____ ❗
 28. die Katze → die ____
-29. der Bus → die ____
-30. die Maus → die ____
+29. der Bus → die ____ ❗
+30. die Maus → die ____ ❗
 
 Answers: 1. Tage 2. Frauen 3. Kinder 4. Hunde 5. Lehrer 6. Bücher 7. Tische 8. Lampen 9. Äpfel 10. Häuser 11. Stühle 12. Bäume 13. Städte 14. Autos 15. Monate 16. Jahre 17. Koffer 18. Blumen 19. Namen 20. Mädchen 21. Väter 22. Mütter 23. Brüder 24. Schwestern 25. Familien 26. Gärten 27. Zimmer 28. Katzen 29. Busse 30. Mäuse
 
@@ -221,14 +221,14 @@ receiving the action). Remember, only the masculine article changes from "der" t
 18. Ich brauche ___ Handy.
 19. ___ Brot schmeckt gut.
 20. Wir essen ___ Brot.
-21. ___ Student lernt Deutsch.
-22. Er fragt ___ Student.
+21. ___ Student lernt Deutsch. ❗
+22. Er fragt ___ Student. ❗
 23. ___ Vater kocht.
 24. Wir besuchen ___ Vater.
 25. ___ Lampe ist kaputt.
 26. Ich repariere ___ Lampe.
-27. ___ Kind malt ein Bild.
-28. Ich sehe ___ Kind.
+27. ___ Kind malt ein Bild. ❗
+28. Ich sehe ___ Kind. ❗
 29. ___ Zug fährt schnell.
 30. Wir nehmen ___ Zug.
 
@@ -280,14 +280,14 @@ constantly in German. You must memorize their conjugations perfectly. They are e
 every level.
 1. Ich ___ Student.
 2. Wir ___ eine Lampe.
-3. Er ___ müde, denn er arbeitet.
+3. Er ___ müde, denn er arbeitet. ❗
 4. Hast du einen Bruder? Ja, ich ___ zwei Brüder.
-5. Sie ___ Lehrer und sie ___ einen Stift.
+5. Sie ___ Lehrer und sie ___ einen Stift. ❗
 6. Wir ___ aus Deutschland.
 7. Ich ___ Hunger.
 8. Du ___ 20 Jahre alt.
 9. Sie (she) ___ ein großes Haus.
-10. Ihr ___ durstig.
+10. Ihr ___ durstig. ❗
 11. Sie (pl.) ___ ein Problem.
 12. Ihr ___ Zeit.
 13. Ich ___ krank.
@@ -295,21 +295,23 @@ every level.
 15. Sie (formal) ___ höflich.
 16. Wir ___ einen Hund.
 17. ___ du einen Job?
-18. ___ ihr traurig?
+18. ___ ihr traurig? ❗
 19. Er ___ ein Telefon.
 20. Sie (pl.) ___ nett.
 21. Ich ___ eine Frage.
 22. Du ___ froh.
 23. Er ___ Geschwister.
 24. Wir ___ müde.
-25. Ihr ___ keine Ahnung.
+25. Ihr ___ keine Ahnung. ❗
 26. Sie (formal) ___ in Berlin.
 27. Ich ___ aus Spanien.
 28. Er ___ eine Katze.
-29. Sie (she) ___ glücklich.
+29. Sie (she) ___ glücklich. ❗
 30. Wir ___ Geld.
 
-Answers: 1. bin 2. haben 3. ist 4. habe 5. sind / haben 6. sind 7. habe 8. bist 9. hat 10. seid 11. haben 12. habt 13. bin 14. hat 15. sind 16. haben 17. hast 18. seid 19. hat 20. sind 21. habe 22. bist 23. hat 24. sind 25. habt 26. sind 27. bin 28. hat 29. ist 30. haben
+Answers: 1. bin 2. haben 3. ist 4. habe 5. sind / haben 6. sind 7. habe 8. bist 9. hat 10. seid 11. haben 12. habt 
+         13. bin 14. hat 15. sind 16. haben 17. hast 18. seid 19. hat 20. sind 21. habe 22. bist 23. hat 24. sind 
+         25. habt 26. sind 27. bin 28. hat 29. ist 30. haben
 
 ---
 
@@ -324,9 +326,9 @@ sentence starting with a "W-word," the verb is in the second position, right aft
 5. Ich gehe nach Hause, und dann ___ ich Kaffee. (trinken)
 6. Am Wochenende ___ wir ins Kino. (gehen)
 7. ___ Sie Herr Müller? (sind / question)
-8. Was ___ du? (essen)
+8. Was ___ du? (essen) ❗
 9. Abends ___ ich fern. (sehen)
-10. ___ ihr Deutsch? (sprechen / question)
+10. ___ ihr Deutsch? (sprechen / question) ❗ 
 11. Wann ___ du Geburtstag? (haben)
 12. Zuerst ___ ich Kaffee. (trinken)
 13. ___ er hier? (ist / question)
@@ -338,17 +340,19 @@ sentence starting with a "W-word," the verb is in the second position, right aft
 19. ___ Sie Hilfe? (brauchen / question)
 20. Woher ___ du? (kommen)
 21. Ich mag Sport, aber ich ___ nicht so oft. (trainieren)
-22. ___ ihr die Aufgabe? (verstehen / question)
+22. ___ ihr die Aufgabe? (verstehen / question) ❗
 23. Wie ___ Sie? (heißen)
-24. Gestern ___ sie sehr beschäftigt. (sein)
+24. Gestern ___ sie sehr beschäftigt. (sein) ❗
 25. ___ du einen Plan? (machen / question)
 26. Wohin ___ du? (gehen)
 27. Zuerst ___ ich Hausaufgaben. (machen)
 28. ___ das dein Handy? (sein / question)
 29. Ich rufe dich an, ___ ich Zeit habe. (wenn)
-30. Ich weiß nicht, ___ er kommt. (ob)
+30. Ich weiß nicht, ___ er kommt. (ob) ❗
 
-Answers: 1. lerne 2. fahren 3. Kommst 4. wohnt 5. trinke 6. gehen 7. sind 8. isst 9. sehe 10. Sprecht 11. hast 12. trinke 13. Ist 14. bist 15. bleiben 16. Hast 17. bist 18. gehe 19. Brauchen 20. kommst 21. trainiere 22. Versteht 23. heißen 24. war 25. Machst 26. gehst 27. mache 28. Ist 29. wenn 30. ob
+Answers: 1. lerne 2. fahren 3. Kommst 4. wohnt 5. trinke 6. gehen 7. sind 8. isst 9. sehe 10. Sprecht 11. hast 
+         12. trinke 13. Ist 14. bist 15. bleiben 16. Hast 17. bist 18. gehe 19. Brauchen 20. kommst 21. trainiere 
+         22. Versteht 23. heißen 24. war 25. Machst 26. gehst 27. mache 28. Ist 29. wenn 30. ob
 
 ---
 
@@ -387,7 +391,9 @@ the noun that follows them to be in the accusative case. They express a variety 
 29. Das Auto fährt ___ die Brücke.
 30. Ich brauche ein Visum ___ die Reise.
 
-Answers: 1. durch 2. für 3. ohne 4. um 5. ohne 6. durch 7. für 8. gegen 9. ohne 10. um 11. um 12. für 13. gegen 14. ohne 15. um 16. durch 17. um 18. gegen 19. für 20. gegen 21. für 22. um 23. gegen 24. ohne 25. für 26. gegen 27. ohne 28. um 29. durch 30. für
+Answers: 1. durch 2. für 3. ohne 4. um 5. ohne 6. durch 7. für 8. gegen 9. ohne 10. um 11. um 12. für 13. gegen 
+         14. ohne 15. um 16. durch 17. um 18. gegen 19. für 20. gegen 21. für 22. um 23. gegen 24. ohne 25. für 
+         26. gegen 27. ohne 28. um 29. durch 30. für
 
 ---
 
@@ -427,7 +433,8 @@ or the dative case (for static location). Ask yourself, "Where is the action goi
 29. Er stellt die Flasche ___ den Tisch. (auf + ?)
 30. Die Flasche steht ___ dem Tisch. (auf + ?)
 
-Answers: 1. ins 2. im 3. auf 4. auf 5. an 6. an 7. ans 8. am 9. in 10. im 11. in 12. in 13. auf 14. auf 15. auf 16. auf 17. ins 18. im 19. an 20. an 21. an 22. an 23. in 24. in 25. auf 26. auf 27. in 28. in 29. auf 30. auf
+Answers: 1. ins 2. im 3. auf 4. auf 5. an 6. an 7. ans 8. am 9. in 10. im 11. in 12. in 13. auf 14. auf 15. auf 
+         16. auf 17. ins 18. im 19. an 20. an 21. an 22. an 23. in 24. in 25. auf 26. auf 27. in 28. in 29. auf 30. auf
 
 ---
 
@@ -466,7 +473,12 @@ form of the main verb at the very end of the sentence.
 29. Ihr ___ hier ___ (bleiben).
 30. Sie (formal) ___ das nicht ___ (verstehen).
 
-Answers: 1. kann sprechen 2. müssen machen 3. möchte essen 4. muss gehen 5. müsst fahren 6. kann kochen 7. möchte einen Kaffee 8. müssen gehen 9. möchten fahren 10. kannst nicht parken 11. muss lernen 12. möchte helfen 13. müsst verstehen 14. möchten gehen 15. musst wissen 16. kann öffnen 17. kann machen 18. möchten haben 19. darfst nicht sagen 20. möchten treffen 21. müssen antworten 22. müsst sein 23. muss nicht kommen 24. möchte stellen 25. musst erklären 26. müssen machen 27. kann schnell laufen 28. kann nicht schlafen 29. müsst bleiben 30. müssen nicht verstehen
+Answers: 1. kann sprechen 2. müssen machen 3. möchte essen 4. muss gehen 5. müsst fahren 6. kann kochen 
+         7. möchte einen Kaffee 8. müssen gehen 9. möchten fahren 10. kannst nicht parken 11. muss lernen 
+         12. möchte helfen 13. müsst verstehen 14. möchten gehen 15. musst wissen 16. kann öffnen 17. kann machen 
+         18. möchten haben 19. darfst nicht sagen 20. möchten treffen 21. müssen antworten 22. müsst sein 
+         23. muss nicht kommen 24. möchte stellen 25. musst erklären 26. müssen machen 27. kann schnell laufen 
+         28. kann nicht schlafen 29. müsst bleiben 30. müssen nicht verstehen
 
 ---
 

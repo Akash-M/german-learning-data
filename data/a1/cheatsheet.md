@@ -73,25 +73,16 @@ grammar. This cheat sheet covers the key rules and concepts you should be famili
 
 ---
 
-## Verbs
+## Verbs ❗❗❗
 
-#### 7. Regular Verb Conjugation (machen)
-
-| Pronoun       | Conjugation | Translation          |
-|:--------------|:------------|:---------------------|
-| **ich**       | *mache*     | I make               |
-| **du**        | *machst*    | you make             |
-| **er/sie/es** | *macht*     | he/she/it makes      |
-| **wir**       | *machen*    | we make              |
-| **ihr**       | *macht*     | you all make         |
-| **sie/Sie**   | *machen*    | they/you formal make |
-
-#### 8. Irregular Verbs ❗❗❗
-
-| Verb                | ich    | du     | er/sie/es | wir     | ihr    | sie/Sie |
-|:--------------------|:-------|:-------|:----------|:--------|:-------|:--------|
-| **sein** (to be)    | *bin*  | *bist* | *ist*     | *sind*  | *seid* | *sind*  |
-| **haben** (to have) | *habe* | *hast* | *hat*     | *haben* | *habt* | *haben* |
+| Pronoun       | **sein** (to be) | **haben** (to have) |
+|:--------------|:-----------------|:--------------------|
+| **ich**       | *bin*            | *habe*              |
+| **du**        | *bist*           | *hast*              |
+| **er/sie/es** | *ist*            | *hat*               |
+| **wir**       | *sind*           | *haben*             |
+| **ihr**       | *seid*           | *habt*              |
+| **sie/Sie**   | *sind*           | *haben*             |
 
 #### 9. Verb Position ❗❗❗
 
