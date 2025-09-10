@@ -90,6 +90,8 @@ organized by article.
 * die Woche (the week)
 * die Wohnung (the apartment)
 * die Zahl (the number)
+* die Kamera (the camera)
+* die Zeitung (the newspaper)
 
 ## das
 
