@@ -136,3 +136,4 @@ organized by article.
 * **bekommen** (to get)
 * **schnell** (fast)
 * **nett** (nice)
+* **eigentlich** (actually)

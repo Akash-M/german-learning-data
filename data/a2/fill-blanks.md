@@ -468,3 +468,29 @@ previous sections to test your comprehensive understanding of A2 German.
 30. _______ hat _______ Flugticket gekauft? (who, has, the, flight ticket, bought).
 
 Answers: 1. Als...habe...gelesen 2. gehört der 3. sind...mit dem...in die...gefahren 4. besser 5. steht auf 6. fühlt sich 7. Musst du anrufen, wenn du eine Frage hast? 8. treffen uns in dem 9. Medikamente sind in der Apotheke 10. Wo triffst du dich 11. Wie schmeckt das Essen 12. hat eine Erkältung 13. wasche mir die Hände 14. Haus der Eltern 15. will nicht gehen, weil sie müde ist 16. gehe nicht raus 17. leckerste 18. sehen fern 19. des Professors 20. Können Sie mir helfen 21. ist krank 22. treffen uns heute 23. bleibe zu Hause, weil es regnet 24. hat Bauchschmerzen, deshalb nimmt er eine Tablette 25. Wohnung der Familie 26. öffnet die Tür 27. habe Kopfschmerzen, aber ich muss eine Tablette nehmen 28. Wann bist du geboren 29. ist verheiratet 30. Wer hat das Flugticket gekauft
+
+---
+
+## Exercise 13: Possessive Articles in Dative Case
+
+Erklärung: Im Dativ steht das indirekte Objekt (wem?).
+Anleitung: Ergänze den richtigen Possessivartikel.
+Beispiel: „Ich helfe ___ Freund. (ich)“ → „Ich helfe meinem Freund.“
+
+1.	Ich danke ___ Mutter. (du)
+2.	Er hilft ___ Bruder. (ich)
+3.	Wir geben ___ Kind ein Geschenk. (sie – Singular)
+4.	Ich erzähle ___ Freunden eine Geschichte. (wir)
+5.	Sie zeigt ___ Eltern die Wohnung. (du)
+6.	Er gratuliert ___ Chef. (ich)
+7.	Ich helfe ___ Oma beim Kochen. (sie – Singular)
+8.	Wir schicken ___ Kollegen eine E-Mail. (ihr)
+9.	Du gibst ___ Lehrer die Hausaufgabe. (wir)
+10.	Sie leiht ___ Freundin ein Buch. (er)
+11.	Ich erkläre ___ Sohn die Aufgabe. (ich)
+12.	Er schreibt ___ Tante einen Brief. (du)
+13.	Wir bringen ___ Nachbarn Kuchen. (sie – Plural
+14.	Ich schenke ___ Bruder ein Spiel. (wir) 
+15.	Sie zeigt ___ Chef den Plan. (ich)
+
+Ansers: 1. deiner, 2. meinem, 3. ihrem, 4. unseren, 5. deinen, 6. meinem, 7. ihrer, 8. euren, 9. unserem, 10. seiner, 11. meinem, 12. deiner, 13. ihren, 14. unserem, 15. meinem

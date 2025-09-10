@@ -584,3 +584,51 @@ point for possessive pronouns.
 30. Sie (they) suchen ___ Wohnung.
 
 Answers: 1. mein 2. deine 3. seine 4. unsere 5. eure 6. ihren 7. Ihr 8. ihren 9. meine 10. deinen 11. sein 12. unser 13. eure 14. ihren 15. Ihrem 16. ihren 17. meine 18. deiner 19. sein 20. unser 21. euer 22. ihre 23. Ihre 24. ihren 25. mein 26. deine 27. seinen 28. unsere 29. euren 30. ihre
+
+---
+
+## 16. Possessive Pronouns in Nominative Case
+
+1.	Das ist ___ Bruder. (ich)  
+2.	___ Schwester ist nett. (du) 
+3.	___ Auto ist neu. (er) -> Sein
+4.	___ Katze ist süß. (sie – Singular) 
+5.	___ Kinder sind laut. (wir) 
+6.	Ist das ___ Lehrer? (ihr) 
+7.	___ Haus ist groß. (sie – Plural) 
+8.	___ Name ist Peter. (er) 
+9.	___ Freundin kommt aus Italien. (du) 
+10.	___ Hund ist alt. (ich) 
+11.	___ Tasche ist schön. (sie – Singular) 
+12.	___ Onkel heißt Karl. (wir) 
+13.	___ Eltern wohnen in Berlin. (ihr) 
+14.	___ Laptop ist kaputt. (er) 
+15.	___ Freunde sind hier. (ich) 
+
+Answers: 1. mein, 2. deine, 3. Sein, 4. Ihre, 5. Unsere, 6. euer, 7. Eure, 8. Sein, 9. Deine, 10. Mein, 11. Ihre, 12. Unser, 13. Eure, 14. Sein, 15. Meine
+
+---
+
+## 17. Possessive Pronouns in Akkusativ Cases
+
+Aufgabe 2 – Akkusativ (15 Sätze)
+Erklärung: Im Akkusativ brauchst du den Possessivartikel für das direkte Objekt.
+Anleitung: Ergänze den richtigen Possessivartikel.
+Beispiel: „Ich sehe ___ Bruder. (ich)“ → „Ich sehe meinen Bruder.“
+1.	Ich besuche ___ Vater. (du) 
+2.	Sie liest ___ Buch. (ich)
+3.	Wir sehen ___ Kinder. (er) 
+4.	Er sucht ___ Tasche. (sie – Singular) 
+5.	Ich brauche ___ Schlüssel. (wir) 
+6.	Sie kauft ___ Auto. (du) 
+7.	Ich höre ___ Musik. (ihr)
+8.	Er vergisst ___ Termin. (ich) 
+9.	Ich nehme ___ Mantel. (sie – Plural) 
+10.	Du isst ___ Apfel. (er) 
+11.	Sie schreibt ___ Brief. (ich) 
+12.	Wir besuchen ___ Oma. (du) 
+13.	Ich öffne ___ Fenster. (wir)
+14.	Er trägt ___ Tasche. (sie – Singular) 
+15.	Ich repariere ___ Fahrrad. (ihr)
+
+Answers: 1. deinen, 2. mein, 3. seine, 4. ihre, 5. unseren, 6. dein, 7. eure, 8. meinen, 9. ihren, 10. seinen, 11. meinen, 12. deine, 13. unser, 14. ihre, 15. euer
