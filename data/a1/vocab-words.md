@@ -51,6 +51,7 @@ organized by article.
 * der Verkäufer (the male salesperson)
 * der Winter (the winter)
 * der Zahn (the tooth)
+* der Hund (the dog)
 
 ## die
 
