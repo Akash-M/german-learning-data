@@ -108,3 +108,46 @@ This table shows how the word for "**the**" changes based on the noun's gender a
 | **Akkusativ**  | **den**           | die              | **das**        | die            |
 | **Dativ**      | **dem**           | der              | **dem**        | den            |
 | **Genitive**   | **des**           | der              | **des**        | der            |
+
+---
+
+That's a great question, as it's a very common point of confusion in German. The difference is all about who you are talking to.
+
+In short:
+
+* **Ihr** = **"you all"** (plural, informal)
+* **Sie** = **"they"** (plural, 3rd person)
+
+Let's break that down with an example using the verb **`kommen`** (to come).
+
+### **When to Use "Ihr"**
+
+You use **`ihr`** when you are speaking directly to a group of two or more people that you know well. It is the informal plural form of "you."
+
+* **Ihr kommt** aus Deutschland.
+    * *You all come from Germany.*
+* **Ihr seid** meine Freunde.
+    * *You all are my friends.*
+
+### **When to Use "Sie" (lowercase)**
+
+You use **`sie`** when you are talking **about** a group of two or more people. It is the 3rd person plural, just like "they" in English.
+
+* **Sie kommen** aus Deutschland.
+    * *They come from Germany.*
+* **Sie sind** meine Freunde.
+    * *They are my friends.*
+
+---
+
+### **Important: The other forms of "sie"**
+
+The confusion often comes from the fact that German has two other words that are also spelled **`sie`** or **`Sie`**.
+
+| Pronoun | Meaning | Used for... | Verb Conjugation |
+| :--- | :--- | :--- | :--- |
+| **sie** | **she** | A single female person you are talking about. | `kommt` (3rd person singular) |
+| **sie** | **they** | A group of people you are talking about. | `kommen` (3rd person plural) |
+| **Sie** | **you** | A single person or a group of people, in a formal context. | `kommen` (same as plural) |
+
+The key is to pay attention to the verb and the context to know which one is being used.
