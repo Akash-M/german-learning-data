@@ -1,0 +1,28 @@
+## A1
+* noch (still)
+* auch (also)
+* nur (only)
+* sehr (very)
+* viel (much, a lot) -> can be used as pronouns as well
+* mehr (more) -> can be used as pronouns as well
+* wenig (few, little) -> can be used as pronouns as well
+* manchmal (sometimes)
+* oft (often)
+* immer (always)
+* nie (never)
+* bald (soon)
+* jetzt (now)
+* später (later)
+* hier (here)
+* dort (there)
+* überall (everywhere)
+* irgendwo (somewhere)
+* nirgends (nowhere)
+* vielleicht (maybe, perhaps)
+* wirklich (really)
+* natürlich (naturally, of course)
+* leider (unfortunately)
+* gern (gladly, with pleasure)
+* zusammen (together)
+* allein (alone)
+* sofort (immediately)
