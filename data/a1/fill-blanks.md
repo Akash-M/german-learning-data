@@ -37,7 +37,8 @@ of knowing the difference.
 29. L__nd (Land)
 30. str__ß (Straße)
 
-Answers: 1. a 2. a 3. e 4. ä 5. ü 6. o 7. i 8. u 9. a 10. e 11. e 12. u 13. e 14. i 15. u 16. e 17. ü 18. e 19. u 20. ü 21. ö 22. a 23. i 24. i 25. e 26. i 27. a 28. a 29. a 30. a
+Answers: 1. a 2. a 3. e 4. ä 5. ü 6. o 7. i 8. u 9. a 10. e 11. e 12. u 13. e 14. i 15. u 16. e 17. ü 18. e 19. u 20. 
+         ü 21. ö 22. a 23. i 24. i 25. e 26. i 27. a 28. a 29. a 30. a
 
 ---
 
@@ -76,7 +77,8 @@ pronunciation. Diphthongs are a crucial part of German phonetics.
 29. St__n (stone)
 30. d__ (the)
 
-Answers: 1. ei 2. ie 3. au 4. eu 5. äu 6. eu 7. ei 8. eu 9. ie 10. ein 11. eu 12. äu 13. au 14. eu 15. ü 16. i 17. ai 18. i 19. a 20. a 21. ie 22. in 23. ei 24. i 25. a 26. a 27. i 28. a 29. e 30. e
+Answers: 1. ei 2. ie 3. au 4. eu 5. äu 6. eu 7. ei 8. eu 9. ie 10. ein 11. eu 12. äu 13. au 14. eu 15. ü 16. i 17. ai 
+         18. i 19. a 20. a 21. ie 22. in 23. ei 24. i 25. a 26. a 27. i 28. a 29. e 30. e
 
 ---
 
@@ -115,7 +117,9 @@ to the spelling and sound of each word.
 29. Ich bin mü__e.
 30. Das ist eine __ache. ❗
 
-Answers: 1. ch 2. s 3. Deutsch (sch already there; focus: land—Accept 'Deutsch') 4. ß 5. Vater 6. ch 7. s 8. s 9. z 10. z 11. s 12. v 13. w 14. c 15. w 16. ch 17. s 18. k 19. u 20. s 21. s 22. z 23. ch 24. w 25. z 26. l 27. s 28. s 29. d 30. s
+Answers: 1. ch 2. s 3. Deutsch (sch already there; focus: land—Accept 'Deutsch') 4. ß 5. Vater 6. ch 7. s 8. s 9. z 
+         10. z 11. s 12. v 13. w 14. c 15. w 16. ch 17. s 18. k 19. u 20. s 21. s 22. z 23. ch 24. w 25. z 26. l 27. s 
+         28. s 29. d 30. s
 
 ---
 
@@ -154,7 +158,9 @@ based on the case, but for these examples, the nominative case is used.
 29. __ Zug ist pünktlich.
 30. __ Ticket ist billig. ❗
 
-Answers: 1. der 2. die 3. das 4. die 5. das 6. der 7. die 8. das 9. der 10. die 11. der 12. das 13. das 14. der 15. die 16. das 17. der 18. das 19. der 20. die 21. das 22. die 23. der 24. die 25. der 26. das 27. die 28. das 29. der 30. das
+Answers: 1. der 2. die 3. das 4. die 5. das 6. der 7. die 8. das 9. der 10. die 11. der 12. das 13. das 14. der 
+         15. die 16. das 17. der 18. das 19. der 20. die 21. das 22. die 23. der 24. die 25. der 26. das 27. die 
+         28. das 29. der 30. das
 
 ---
 
@@ -193,7 +199,9 @@ so it's best to learn the plural form along with the singular noun.
 29. der Bus → die ____ ❗
 30. die Maus → die ____ ❗
 
-Answers: 1. Tage 2. Frauen 3. Kinder 4. Hunde 5. Lehrer 6. Bücher 7. Tische 8. Lampen 9. Äpfel 10. Häuser 11. Stühle 12. Bäume 13. Städte 14. Autos 15. Monate 16. Jahre 17. Koffer 18. Blumen 19. Namen 20. Mädchen 21. Väter 22. Mütter 23. Brüder 24. Schwestern 25. Familien 26. Gärten 27. Zimmer 28. Katzen 29. Busse 30. Mäuse
+Answers: 1. Tage 2. Frauen 3. Kinder 4. Hunde 5. Lehrer 6. Bücher 7. Tische 8. Lampen 9. Äpfel 10. Häuser 11. Stühle 
+         12. Bäume 13. Städte 14. Autos 15. Monate 16. Jahre 17. Koffer 18. Blumen 19. Namen 20. Mädchen 21. Väter 
+         22. Mütter 23. Brüder 24. Schwestern 25. Familien 26. Gärten 27. Zimmer 28. Katzen 29. Busse 30. Mäuse
 
 ---
 
@@ -232,7 +240,9 @@ receiving the action). Remember, only the masculine article changes from "der" t
 29. ___ Zug fährt schnell.
 30. Wir nehmen ___ Zug.
 
-Answers: 1. den 2. Der 3. das 4. die 5. Das 6. Der 7. den 8. die 9. Der 10. das 11. Das 12. das 13. Die 14. die 15. Die 16. den 17. Die 18. das 19. Das 20. das 21. Der 22. den 23. Der 24. den 25. Die 26. die 27. Das 28. das 29. Der 30. den
+Answers: 1. den 2. Der 3. das 4. die 5. Das 6. Der 7. den 8. die 9. Der 10. das 11. Das 12. das 13. Die 14. die 
+         15. Die 16. den 17. Die 18. das 19. Das 20. das 21. Der 22. den 23. Der 24. den 25. Die 26. die 27. Das 
+         28. das 29. Der 30. den
 
 ---
 
@@ -270,7 +280,9 @@ ending for each person. This is a crucial skill for forming basic sentences.
 29. Ihr ___ einen Test.
 30. Sie (they) ___ das Radio an.
 
-Answers: 1. mache 2. machst 3. macht 4. machen 5. macht 6. machen 7. mache 8. machst 9. macht 10. machen 11. macht 12. machen 13. mache 14. machst 15. macht 16. machen 17. macht 18. machen 19. mache 20. machst 21. macht 22. machen 23. macht 24. machen 25. mache 26. machst 27. macht 28. machen 29. macht 30. machen
+Answers: 1. mache 2. machst 3. macht 4. machen 5. macht 6. machen 7. mache 8. machst 9. macht 10. machen 
+         11. macht 12. machen 13. mache 14. machst 15. macht 16. machen 17. macht 18. machen 19. mache 20. machst 
+         21. macht 22. machen 23. macht 24. machen 25. mache 26. machst 27. macht 28. machen 29. macht 30. machen
 
 ---
 
@@ -445,7 +457,7 @@ form of the main verb at the very end of the sentence.
 1. Ich ___ Deutsch ___ (sprechen).
 2. Wir ___ heute viel ___ (machen).
 3. Er ___ ein Brot ___ (essen).
-4. Sie ___ zur Universität ___ (gehen).
+4. Sie ___ zur Universität ___ (gehen).'
 5. Ihr ___ jetzt nach Hause ___ (fahren).
 6. Er ___ gut kochen ___ (können).
 7. Ich ___ einen Kaffee ___ (mögen).
@@ -517,7 +529,9 @@ almost everything else, including verbs, adjectives, prepositions, and definite 
 29. Sie ist ___ glücklich.
 30. Ich habe ___ Zeit.
 
-Answers: 1. kein 2. nicht 3. kein 4. keine 5. keine 6. nicht 7. kein 8. nicht 9. keinen 10. nicht 11. keinen 12. nicht 13. keinen 14. nicht 15. keine 16. nicht 17. kein 18. nicht 19. kein 20. nicht 21. keine 22. nicht 23. keinen 24. nicht 25. kein 26. kein 27. nicht 28. keine 29. nicht 30. keine
+Answers: 1. kein 2. nicht 3. kein 4. keine 5. keine 6. nicht 7. kein 8. nicht 9. keinen 10. nicht 11. keinen 
+         12. nicht 13. keinen 14. nicht 15. keine 16. nicht 17. kein 18. nicht 19. kein 20. nicht 21. keine 
+         22. nicht 23. keinen 24. nicht 25. kein 26. kein 27. nicht 28. keine 29. nicht 30. keine
 
 ---
 
@@ -556,7 +570,9 @@ places, and buildings, often with the dative article contractions **zum** (zu + 
 29. Sie geht ___ dem Restaurant.
 30. Wir fahren ___ Italien.
 
-Answers: 1. nach 2. nach / zum 3. zum 4. zur 5. nach 6. nach 7. zu 8. zum 9. nach 10. in die 11. zu 12. nach 13. zum 14. zum 15. nach 16. nach 17. zum 18. nach 19. zu 20. zur 21. nach 22. zum 23. zur 24. nach 25. zur 26. nach 27. nach 28. nach 29. zum 30. nach
+Answers: 1. nach 2. nach / zum 3. zum 4. zur 5. nach 6. nach 7. zu 8. zum 9. nach 10. in die 11. zu 12. nach 13. zum 
+         14. zum 15. nach 16. nach 17. zum 18. nach 19. zu 20. zur 21. nach 22. zum 23. zur 24. nach 25. zur 26. nach 
+         27. nach 28. nach 29. zum 30. nach
 
 ---
 
@@ -595,7 +611,9 @@ point for possessive pronouns.
 29. Ihr esst ___ Kuchen.
 30. Sie (they) suchen ___ Wohnung.
 
-Answers: 1. mein 2. deine 3. seine 4. unsere 5. eure 6. ihren 7. Ihr 8. ihren 9. meine 10. deinen 11. sein 12. unser 13. eure 14. ihren 15. Ihrem 16. ihren 17. meine 18. deiner 19. sein 20. unser 21. euer 22. ihre 23. Ihre 24. ihren 25. mein 26. deine 27. seinen 28. unsere 29. euren 30. ihre
+Answers: 1. mein 2. deine 3. seine 4. unsere 5. eure 6. ihren 7. Ihr 8. ihren 9. meine 10. deinen 11. sein 12. unser 
+         13. eure 14. ihren 15. Ihrem 16. ihren 17. meine 18. deiner 19. sein 20. unser 21. euer 22. ihre 23. Ihre 
+         24. ihren 25. mein 26. deine 27. seinen 28. unsere 29. euren 30. ihre
 
 ---
 
@@ -617,7 +635,8 @@ Answers: 1. mein 2. deine 3. seine 4. unsere 5. eure 6. ihren 7. Ihr 8. ihren 9.
 14.	___ Laptop ist kaputt. (er) 
 15.	___ Freunde sind hier. (ich) 
 
-Answers: 1. mein, 2. deine, 3. Sein, 4. Ihre, 5. Unsere, 6. euer, 7. Eure, 8. Sein, 9. Deine, 10. Mein, 11. Ihre, 12. Unser, 13. Eure, 14. Sein, 15. Meine
+Answers: 1. mein, 2. deine, 3. Sein, 4. Ihre, 5. Unsere, 6. euer, 7. Eure, 8. Sein, 9. Deine, 10. Mein, 11. Ihre, 
+         12. Unser, 13. Eure, 14. Sein, 15. Meine
 
 ---
 
@@ -643,4 +662,5 @@ Beispiel: „Ich sehe ___ Bruder. (ich)“ → „Ich sehe meinen Bruder.“
 14.	Er trägt ___ Tasche. (sie – Singular) 
 15.	Ich repariere ___ Fahrrad. (ihr)
 
-Answers: 1. deinen, 2. mein, 3. seine, 4. ihre, 5. unseren, 6. dein, 7. eure, 8. meinen, 9. ihren, 10. seinen, 11. meinen, 12. deine, 13. unser, 14. ihre, 15. euer
+Answers: 1. deinen, 2. mein, 3. seine, 4. ihre, 5. unseren, 6. dein, 7. eure, 8. meinen, 9. ihren, 10. seinen, 
+         11. meinen, 12. deine, 13. unser, 14. ihre, 15. euer
