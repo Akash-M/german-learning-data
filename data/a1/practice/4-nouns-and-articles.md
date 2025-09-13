@@ -7,7 +7,7 @@ Fill in the correct article (**der, die, das, den**).
 2. Ich sehe___Frau.
 3. ___Kind spielt.
 4. Er kauft___Apfel.
-5. ___Hund ist laut.
+5. ___Hund ist laut.❗
 6. Sie hat___Katze.
 7. Ich brauche___Stift.
 8. ___Buch ist interessant.
