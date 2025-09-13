@@ -4,10 +4,11 @@ This expanded set of A2 fill-in-the-blanks exercises will help you practice key 
 
 ### A2 German Fill-in-the-Blanks Exercises
 
-## Exercise 1: Subordinating Conjunctions
-Fill in the blanks with the correct conjunction (**dass, weil, wenn, ob, als**). These words introduce a subordinate 
-clause, which means the conjugated verb moves to the very end of that clause. This is a fundamental concept in German
-sentence structure that you'll use constantly.
+## Exercise: Subordinating Conjunctions
+
+Fill in the blanks with the correct conjunction (**dass, weil, wenn, ob, als**). These words introduce a
+subordinate clause, which means the conjugated verb moves to the very end of that clause. This is a
+fundamental concept in German sentence structure that you'll use constantly.
 1. Ich weiß nicht, _______ er heute kommt.
 2. Er lernt Deutsch, _______ er in Berlin wohnt.
 3. _______ ich Kind war, habe ich viel gespielt.
@@ -39,14 +40,18 @@ sentence structure that you'll use constantly.
 29. _______ die Sonne schien, gingen wir spazieren.
 30. Ich weiß nicht, _______ sie das gemacht hat.
 
-Answers: 1. ob 2. weil 3. Als 4. dass 5. wenn 6. weil 7. ob 8. Als 9. dass 10. Als 11. wenn 12. ob 13. weil 14. dass 15. Als 16. ob 17. weil 18. ob 19. Wenn 20. dass 21. ob 22. wenn 23. Als 24. dass 25. Als 26. ob 27. weil 28. dass 29. Als 30. ob
+Answers:
+1. ob 2. weil 3. Als 4. dass 5. wenn 6. weil 7. ob 8. Als 9. dass 10. Als
+11. wenn 12. ob 13. weil 14. dass 15. Als 16. ob 17. weil 18. ob 19. Wenn 20. dass
+21. ob 22. wenn 23. Als 24. dass 25. Als 26. ob 27. weil 28. dass 29. Als 30. ob
 
 ---
 
-## Exercise 2: Past Tense (Perfekt) with haben/sein
-Fill in the blanks with the correct auxiliary verb (**haben/sein**) and past participle. The **Perfekt** is the most 
-common past tense in spoken German. Most verbs use **haben** as the auxiliary verb, but verbs of movement, change of 
-state, and a few others use **sein**.
+## Exercise: Past Tense (Perfekt) with haben/sein
+
+Fill in the blanks with the correct auxiliary verb (**haben/sein**) and past participle. The **Perfekt** is
+the most common past tense in spoken German. Most verbs use **haben** as the auxiliary verb, but verbs of
+movement, change of state, and a few others use **sein**.
 1. Gestern _______ ich ein interessantes Buch _______ (lesen).
 2. Meine Freundin _______ nach Italien _______ (fahren).
 3. Wir _______ gestern im Restaurant _______ (essen).
@@ -78,15 +83,22 @@ state, and a few others use **sein**.
 29. Sie _______ schnell _______ (rennen).
 30. Wir _______ die Lichter _______ (anmachen).
 
-Answers: 1. habe...gelesen 2. ist...gefahren 3. haben...gegessen 4. ist...gegangen 5. haben...gespielt 6. hat...geschlossen 7. ist...gegangen 8. haben...getrunken 9. hat...geweint 10. hat...gelegen 11. hat...gebacken 12. bin...gekommen 13. habt...geschrieben 14. ist...aufgestanden 15. hat...gewonnen 16. sind...gewesen 17. hast...gekauft 18. bin...geflogen 19. habt...gearbeitet 20. sind...gewachsen 21. hat...gelesen 22. ist...gelaufen 23. haben...gekauft 24. bin...gewesen 25. habt...gegessen 26. sind...gegangen 27. hat...geöffnet 28. habe...gesprochen 29. ist...gerannt 30. haben...angemacht
+Answers:
+1. habe...gelesen 2. ist...gefahren 3. haben...gegessen 4. ist...gegangen 5. haben...gespielt
+6. hat...geschlossen 7. ist...gegangen 8. haben...getrunken 9. hat...geweint 10. hat...gelegen
+11. hat...gebacken 12. bin...gekommen 13. habt...geschrieben 14. ist...aufgestanden 15. hat...gewonnen
+16. sind...gewesen 17. hast...gekauft 18. bin...geflogen 19. habt...gearbeitet 20. sind...gewachsen
+21. hat...gelesen 22. ist...gelaufen 23. haben...gekauft 24. bin...gewesen 25. habt...gegessen
+26. sind...gegangen 27. hat...geöffnet 28. habe...gesprochen 29. ist...gerannt 30. haben...angemacht
 
 ---
 
-## Exercise 3: Dative Case
-Fill in the blanks with the correct dative articles and endings. The dative case is used for the indirect object of a 
-sentence. It's often associated with verbs like **geben** (to give), **helfen** (to help), and **gehören** (to belong 
-to), as well as certain prepositions. The dative articles are **dem** (m), **der** (f), **dem** (n), 
-and **den** + **-n** (pl).
+## Exercise: Dative Case
+
+Fill in the blanks with the correct dative articles and endings. The dative case is used for the indirect
+object of a sentence. It's often associated with verbs like **geben** (to give), **helfen** (to help), and
+**gehören** (to belong to), as well as certain prepositions. The dative articles are **dem** (m), **der** (f),
+**dem** (n), and **den** + **-n** (pl).
 1. Ich gebe _______ Chef den Bericht. (der)
 2. Das Geschenk gehört _______ Kind_____. (das)
 3. Er hilft _______ Tourist_____ am Flughafen. (die - plural)
@@ -118,14 +130,18 @@ and **den** + **-n** (pl).
 29. Ich gebe _______ Touristen____ eine Karte. (der - plural)
 30. Das Lied gefällt _______ mir. (I)
 
-Answers: 1. dem 2. dem Kind 3. den Touristen 4. der 5. dem 6. dem Lehrer 7. der alten Frau 8. dem Kind 9. den Eltern 10. dem Mann 11. der 12. dem Hund 13. dem Bruder 14. der 15. dem Nachbarn 16. dem Kellner 17. den Kindern 18. der 19. der Freundin 20. dem Mädchen 21. den Schülern 22. dem Vater 23. der Mutter 24. den Freunden 25. dem Kollegen 26. der 27. dem Ehepaar 28. dem Nachbarn 29. den Touristen 30. mir
+Answers:
+1. dem 2. dem Kind 3. den Touristen 4. der 5. dem 6. dem Lehrer 7. der alten Frau 8. dem Kind 9. den Eltern 10. dem Mann
+11. der 12. dem Hund 13. dem Bruder 14. der 15. dem Nachbarn 16. dem Kellner 17. den Kindern 18. der 19. der Freundin 20. dem Mädchen
+21. den Schülern 22. dem Vater 23. der Mutter 24. den Freunden 25. dem Kollegen 26. der 27. dem Ehepaar 28. dem Nachbarn 29. den Touristen 30. mir
 
 ---
 
-## Exercise 4: Two-way Prepositions (Location vs. Movement)
-Fill in the blanks with the correct preposition + article combination.  Remember that two-way prepositions can be 
-either accusative (for movement, where is it going? **wohin?**) or dative (for location, where is it? **wo?**). Pay 
-close attention to the verb to determine the case.
+## Exercise: Two-way Prepositions (Location vs. Movement)
+
+Fill in the blanks with the correct preposition + article combination. Remember that two-way prepositions
+can be either accusative (for movement, where is it going? **wohin?**) or dative (for location, where is
+it? **wo?**). Pay close attention to the verb to determine the case.
 1. Der Gast sitzt _______ Restaurant. (in + location)
 2. Wir gehen _______ Kino. (in + movement)
 3. Das Bild hängt _______ Wand. (an + location)
@@ -157,14 +173,18 @@ close attention to the verb to determine the case.
 29. Er stellt die Flasche _______ Tisch. (auf + movement)
 30. Das Auto steht _______ Garage. (in + location)
 
-Answers: 1. im 2. ins 3. an der 4. an die 5. in der 6. an den 7. auf dem 8. in die 9. in der 10. zur 11. im 12. auf den 13. in die 14. im 15. auf den 16. an der 17. im 18. in den 19. auf dem 20. auf den 21. an der 22. an die 23. ins 24. im 25. ins 26. an der 27. in die 28. auf dem 29. auf den 30. in der
+Answers:
+1. im 2. ins 3. an der 4. an die 5. in der 6. an den 7. auf dem 8. in die 9. in der 10. zur
+11. im 12. auf den 13. in die 14. im 15. auf den 16. an der 17. im 18. in den 19. auf dem 20. auf den
+21. an der 22. an die 23. ins 24. im 25. ins 26. an der 27. in die 28. auf dem 29. auf den 30. in der
 
 ---
 
-## Exercise 5: Separable Verbs
-Fill in the blanks with the correct form of the separable verb. These verbs consist of a prefix and a main verb. In the 
-present tense, the prefix moves to the end of the sentence. In the perfect tense, the prefix attaches to the past 
-participle.
+## Exercise: Separable Verbs
+
+Fill in the blanks with the correct form of the separable verb. These verbs consist of a prefix and a main
+verb. In the present tense, the prefix moves to the end of the sentence. In the perfect tense, the prefix
+attaches to the past participle.
 1. Ich _______ meinen Freund heute _______ (anrufen - present).
 2. Gestern _______ ich früh _______ (aufstehen - past).
 3. Der Zug _______ um 8 Uhr _______ (ankommen - present).
@@ -196,14 +216,20 @@ participle.
 29. Wir _______ unser Auto _______ (verkaufen - past).
 30. Ich _______ mein Handy _______ (aufladen - present).
 
-Answers: 1. rufe...an 2. bin...aufgestanden 3. kommt...an 4. sind...eingeschlafen 5. Machst...auf 6. macht...zu 7. hat...angerufen 8. machen...an 9. hat...aufgegeben 10. ziehen...aus 11. hat...ausgemacht 12. räumt...auf 13. mache...aus 14. haben...eingekauft 15. nimmt...ab 16. treffen...uns 17. habe...aufgesetzt 18. fährt...ab 19. habe...abgeholt 20. machen...auf 21. ziehe...an 22. hat...mitgebracht 23. bereitet...zu 24. habe...weggeworfen 25. zieht...aus 26. nehmen...mit 27. ist...aufgewacht 28. ruft...an 29. haben...verkauft 30. lade...auf
+Answers:
+1. rufe...an 2. bin...aufgestanden 3. kommt...an 4. sind...eingeschlafen 5. Machst...auf 6. macht...zu
+7. hat...angerufen 8. machen...an 9. hat...aufgegeben 10. ziehen...aus 11. hat...ausgemacht 12. räumt...auf
+13. mache...aus 14. haben...eingekauft 15. nimmt...ab 16. treffen...uns 17. habe...aufgesetzt 18. fährt...ab
+19. habe...abgeholt 20. machen...auf 21. ziehe...an 22. hat...mitgebracht 23. bereitet...zu 24. habe...weggeworfen
+25. zieht...aus 26. nehmen...mit 27. ist...aufgewacht 28. ruft...an 29. haben...verkauft 30. lade...auf
 
 ---
 
-## Exercise 6: Reflexive Verbs
-Fill in the blanks with the correct reflexive pronoun. Reflexive verbs require a reflexive pronoun 
-(**mich, dich, sich, uns, euch, sich**) that refers back to the subject of the sentence. They are often used for 
-daily routines.
+## Exercise: Reflexive Verbs
+
+Fill in the blanks with the correct reflexive pronoun. Reflexive verbs require a reflexive pronoun
+(**mich, dich, sich, uns, euch, sich**) that refers back to the subject of the sentence. They are often used
+for daily routines.
 1. Ich wasche _______ jeden Morgen.
 2. Du ziehst _______ schnell an.
 3. Er rasiert _______ vor der Hochzeit.
@@ -235,14 +261,18 @@ daily routines.
 29. Wir unterhalten _______ gern über Sport.
 30. Ihr legt _______ auf das Sofa.
 
-Answers: 1. mich 2. dich 3. sich 4. uns 5. euch 6. sich 7. sich 8. mich 9. dich 10. sich 11. uns 12. euch 13. sich 14. mir 15. dich 16. sich 17. uns 18. euch 19. sich 20. mich 21. dich 22. sich 23. uns 24. euch 25. sich 26. mich 27. dir 28. sich 29. uns 30. euch
+Answers:
+1. mich 2. dich 3. sich 4. uns 5. euch 6. sich 7. sich 8. mich 9. dich 10. sich
+11. uns 12. euch 13. sich 14. mir 15. dich 16. sich 17. uns 18. euch 19. sich 20. mich
+21. dich 22. sich 23. uns 24. euch 25. sich 26. mich 27. dir 28. sich 29. uns 30. euch
 
 ---
 
-## Exercise 7: Comparisons
-Fill in the blanks with the correct comparative or superlative form. To make comparisons in German, you add **-er** 
-for the comparative form and **-st** or **-est** for the superlative. The superlative form is usually preceded by 
-**am** for adjectives or **der/die/das** for nouns.
+## Exercise: Comparisons
+
+Fill in the blanks with the correct comparative or superlative form. To make comparisons in German, you add
+**-er** for the comparative form and **-st** or **-est** for the superlative. The superlative form is usually
+preceded by **am** for adjectives or **der/die/das** for nouns.
 1. Mein Anzug ist _______ als deiner (schön).
 2. Das ist das _______ Restaurant in der Stadt (gut).
 3. Die Grippe ist _______ als eine Erkältung (schlimm).
@@ -274,13 +304,17 @@ for the comparative form and **-st** or **-est** for the superlative. The superl
 29. Das ist das _______ Essen, das ich kenne (gut).
 30. Ich bin am _______ (müde).
 
-Answers: 1. schöner 2. beste 3. schlimmer 4. wärmer 5. am interessantesten 6. älter 7. langweiligste 8. kleiner 9. tollste 10. heißer 11. schwieriger 12. höchste 13. schneller 14. süßeste 15. teurer 16. kürzeste 17. leckerer 18. am faulsten 19. jünger 20. lauteste 21. breiter 22. beste 23. größer 24. leichteste 25. schneller 26. heller 27. schönste 28. größer 29. beste 30. am müdesten
+Answers:
+1. schöner 2. beste 3. schlimmer 4. wärmer 5. am interessantesten 6. älter 7. langweiligste 8. kleiner 9. tollste 10. heißer
+11. schwieriger 12. höchste 13. schneller 14. süßeste 15. teurer 16. kürzeste 17. leckerer 18. am faulsten 19. jünger 20. lauteste
+21. breiter 22. beste 23. größer 24. leichteste 25. schneller 26. heller 27. schönste 28. größer 29. beste 30. am müdesten
 
 ---
 
-## Exercise 8: A2 Vocabulary - Body Parts and Health
-Fill in the blanks with the correct vocabulary word. This section tests your knowledge of common A2-level words 
-related to the body and health.
+## Exercise: A2 Vocabulary - Body Parts and Health
+
+Fill in the blanks with the correct vocabulary word. This section tests your knowledge of common A2-level
+words related to the body and health.
 1. Ich habe _______ und brauche eine Tablette. (headache)
 2. Der _______ tut mir weh, ich kann nicht gut gehen. (foot)
 3. Bei _______ sollte man viel trinken. (fever)
@@ -312,13 +346,17 @@ related to the body and health.
 29. Ich fühle mich nicht gut, ich bin _______ (sick).
 30. Mein _______ schmerzt. (stomach)
 
-Answers: 1. Kopfschmerzen 2. Fuß 3. Fieber 4. Medikamente 5. Körper 6. Arm 7. Beine 8. Grippe 9. huste 10. Bauch 11. Erkältung 12. Augen 13. Zähne 14. Finger 15. Halsschmerzen 16. Fuß 17. Ohrenschmerzen 18. Gesundheit 19. Schmerzen 20. Rücken 21. Schnupfen 22. Tablette 23. Kopfschmerzen 24. Bein 25. Schmerzen 26. Füße 27. Körper 28. Ohrenschmerzen 29. krank 30. Bauch
+Answers:
+1. Kopfschmerzen 2. Fuß 3. Fieber 4. Medikamente 5. Körper 6. Arm 7. Beine 8. Grippe 9. huste 10. Bauch
+11. Erkältung 12. Augen 13. Zähne 14. Finger 15. Halsschmerzen 16. Fuß 17. Ohrenschmerzen 18. Gesundheit 19. Schmerzen 20. Rücken
+21. Schnupfen 22. Tablette 23. Kopfschmerzen 24. Bein 25. Schmerzen 26. Füße 27. Körper 28. Ohrenschmerzen 29. krank 30. Bauch
 
 ---
 
-## Exercise 9: Connector Words
-Fill in the blanks with the correct connector word from the A2 list. These words help link ideas and create more 
-complex sentences.
+## Exercise: Connector Words
+
+Fill in the blanks with the correct connector word from the A2 list. These words help link ideas and create
+more complex sentences.
 1. Ich trinke keinen Kaffee, _______ Tee. (but rather)
 2. _______ wir ins Theater gehen, _______ bleiben wir zu Hause. (either...or)
 3. _______ gehen wir ins Restaurant, _______ ins Kino. (first...afterwards)
@@ -350,15 +388,19 @@ complex sentences.
 29. Er ruft mich an, _______ ich Zeit habe.
 30. Wir sind nicht glücklich, _______ wir sind traurig.
 
-Answers: 1. sondern 2. Entweder...oder 3. Zuerst...danach 4. bis 5. ob 6. sondern 7. Wenn...helfe 8. danach 9. bis 10. Wenn...helfe 11. sondern 12. Zuerst...danach 13. während 14. Wenn...ruht 15. ob 16. sondern 17. bis 18. weil 19. ob 20. weil 21. sondern 22. Wenn...machen 23. während 24. wie 25. bis 26. Wenn...fahren 27. sondern 28. ob 29. wenn 30. sondern
+Answers:
+1. sondern 2. Entweder...oder 3. Zuerst...danach 4. bis 5. ob 6. sondern 7. Wenn...helfe 8. danach 9. bis 10. Wenn...helfe
+11. sondern 12. Zuerst...danach 13. während 14. Wenn...ruht 15. ob 16. sondern 17. bis 18. weil 19. ob 20. weil
+21. sondern 22. Wenn...machen 23. während 24. wie 25. bis 26. Wenn...fahren 27. sondern 28. ob 29. wenn 30. sondern
 
 ---
 
-## Exercise 10: Genitive Case
-Fill in the blanks with the correct genitive forms. The genitive case is used to show possession and is often 
-translated with **'s** or **of the**. In German, it's often used with the preposition **von** or directly with the 
-genitive article. The articles are **des** (m), **der** (f), **des** (n), and **der** (pl). Masculine and neuter nouns 
-often get an **-s** or **-es** ending.
+## Exercise: Genitive Case
+
+Fill in the blanks with the correct genitive forms. The genitive case is used to show possession and is
+often translated with **'s** or **of the**. In German, it's often used with the preposition **von** or
+directly with the genitive article. The articles are **des** (m), **der** (f), **des** (n), and **der** (pl).
+Masculine and neuter nouns often get an **-s** or **-es** ending.
 1. Das ist das Auto _______ Arztes. (der)
 2. Die Tradition _______ Familie ist sehr wichtig. (die)
 3. Der Preis _______ Tickets ist hoch. (das)
@@ -390,14 +432,18 @@ often get an **-s** or **-es** ending.
 29. Die Geschichte _______ Stadt ist interessant. (die)
 30. Der Motor _______ Autos ist kaputt. (das)
 
-Answers: 1. des Arztes 2. der Familie 3. des Tickets 4. der Gäste 5. des Gebäudes 6. der Frau 7. des Lehrers 8. des Autos 9. der Studenten 10. des Kindes 11. des Vaters 12. des Hauses 13. der Firma 14. der Menschen 15. des Kaffees 16. der Lampe 17. des Hauses 18. des Autos 19. der Kinder 20. des Mannes 21. des Nachbarns 22. der Bluse 23. des Buches 24. der Gäste 25. des Vaters 26. des Sängers 27. des Parfums 28. des Mädchens 29. der Stadt 30. des Autos
+Answers:
+1. des Arztes 2. der Familie 3. des Tickets 4. der Gäste 5. des Gebäudes 6. der Frau 7. des Lehrers 8. des Autos 9. der Studenten 10. des Kindes
+11. des Vaters 12. des Hauses 13. der Firma 14. der Menschen 15. des Kaffees 16. der Lampe 17. des Hauses 18. des Autos 19. der Kinder 20. des Mannes
+21. des Nachbarns 22. der Bluse 23. des Buches 24. der Gäste 25. des Vaters 26. des Sängers 27. des Parfums 28. des Mädchens 29. der Stadt 30. des Autos
 
 ---
 
-## Exercise 11: Modal Verbs in Context
-Fill in the blanks with the correct modal verb. Modal verbs (**dürfen, können, müssen, sollen, wollen, möchten**) 
-express permission, ability, obligation, advice, desire, and politeness. Their conjugations are irregular and must 
-be memorized.
+## Exercise: Modal Verbs in Context
+
+Fill in the blanks with the correct modal verb. Modal verbs (**dürfen, können, müssen, sollen, wollen,
+möchten**) express permission, ability, obligation, advice, desire, and politeness. Their conjugations are
+irregular and must be memorized.
 1. _______ ich Ihren Pass sehen? (permission)
 2. Du _______ mehr Gemüse essen. (should)
 3. Wir _______ ins Ausland reisen. (want to)
@@ -429,13 +475,17 @@ be memorized.
 29. Ihr _______ mir das erklären. (can)
 30. Sie (formal) _______ heute Abend nach Hause gehen. (must)
 
-Answers: 1. Darf 2. solltest 3. wollen 4. Können 5. muss 6. darf 7. können 8. möchte 9. müssen 10. sollt 11. möchte 12. darfst 13. kann 14. müssen 15. Kann 16. will 17. darf 18. wollen 19. müsst 20. kann 21. sollen 22. wollen 23. sollst 24. muss 25. will 26. Darf 27. müssen 28. soll 29. könnt 30. müssen
+Answers:
+1. Darf 2. solltest 3. wollen 4. Können 5. muss 6. darf 7. können 8. möchte 9. müssen 10. sollt
+11. möchte 12. darfst 13. kann 14. müssen 15. Kann 16. will 17. darf 18. wollen 19. müsst 20. kann
+21. sollen 22. wollen 23. sollst 24. muss 25. will 26. Darf 27. müssen 28. soll 29. könnt 30. müssen
 
 ---
 
-## Exercise 12: Mixed A2 Grammar and Vocabulary
-Fill in the blanks using a mix of A2 grammar and vocabulary. This final exercise combines the concepts from the 
-previous sections to test your comprehensive understanding of A2 German.
+## Exercise: Mixed A2 Grammar and Vocabulary
+
+Fill in the blanks using a mix of A2 grammar and vocabulary. This final exercise combines the concepts from
+the previous sections to test your comprehensive understanding of A2 German.
 1. _______ ich im Krankenhaus war, _______ ich viele Bücher _______ (when, have, read).
 2. Die Bluse _______ _______ Frau sehr gut (belongs to, the - dative).
 3. Gestern _______ wir mit _______ Bus _______ Innenstadt _______ (are, the, to the, driven).
@@ -467,11 +517,17 @@ previous sections to test your comprehensive understanding of A2 German.
 29. Sie _______ _______ _______ (is, married).
 30. _______ hat _______ Flugticket gekauft? (who, has, the, flight ticket, bought).
 
-Answers: 1. Als...habe...gelesen 2. gehört der 3. sind...mit dem...in die...gefahren 4. besser 5. steht auf 6. fühlt sich 7. Musst du anrufen, wenn du eine Frage hast? 8. treffen uns in dem 9. Medikamente sind in der Apotheke 10. Wo triffst du dich 11. Wie schmeckt das Essen 12. hat eine Erkältung 13. wasche mir die Hände 14. Haus der Eltern 15. will nicht gehen, weil sie müde ist 16. gehe nicht raus 17. leckerste 18. sehen fern 19. des Professors 20. Können Sie mir helfen 21. ist krank 22. treffen uns heute 23. bleibe zu Hause, weil es regnet 24. hat Bauchschmerzen, deshalb nimmt er eine Tablette 25. Wohnung der Familie 26. öffnet die Tür 27. habe Kopfschmerzen, aber ich muss eine Tablette nehmen 28. Wann bist du geboren 29. ist verheiratet 30. Wer hat das Flugticket gekauft
+Answers:
+1. Als...habe...gelesen 2. gehört der 3. sind...mit dem...in die...gefahren 4. besser 5. steht auf
+6. fühlt sich 7. Musst du anrufen, wenn du eine Frage hast? 8. treffen uns in dem 9. Medikamente sind in der Apotheke 10. Wo triffst du dich
+11. Wie schmeckt das Essen 12. hat eine Erkältung 13. wasche mir die Hände 14. Haus der Eltern 15. will nicht gehen, weil sie müde ist
+16. gehe nicht raus 17. leckerste 18. sehen fern 19. des Professors 20. Können Sie mir helfen
+21. ist krank 22. treffen uns heute 23. bleibe zu Hause, weil es regnet 24. hat Bauchschmerzen, deshalb nimmt er eine Tablette
+25. Wohnung der Familie 26. öffnet die Tür 27. habe Kopfschmerzen, aber ich muss eine Tablette nehmen 28. Wann bist du geboren 29. ist verheiratet 30. Wer hat das Flugticket gekauft
 
 ---
 
-## Exercise 13: Possessive Articles in Dative Case
+## Exercise: Possessive Articles in Dative Case
 
 Erklärung: Im Dativ steht das indirekte Objekt (wem?).
 Anleitung: Ergänze den richtigen Possessivartikel.
@@ -493,4 +549,6 @@ Beispiel: „Ich helfe ___ Freund. (ich)“ → „Ich helfe meinem Freund.“
 14.	Ich schenke ___ Bruder ein Spiel. (wir) 
 15.	Sie zeigt ___ Chef den Plan. (ich)
 
-Ansers: 1. deiner, 2. meinem, 3. ihrem, 4. unseren, 5. deinen, 6. meinem, 7. ihrer, 8. euren, 9. unserem, 10. seiner, 11. meinem, 12. deiner, 13. ihren, 14. unserem, 15. meinem
+Answers:
+1. deiner 2. meinem 3. ihrem 4. unseren 5. deinen 6. meinem 7. ihrer 8. euren 9. unserem 10. seiner
+11. meinem 12. deiner 13. ihren 14. unserem 15. meinem

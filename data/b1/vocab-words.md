@@ -116,30 +116,32 @@ For the B1 German level, you are expected to have a more extensive vocabulary to
 | die Wiederholung        | die Wiederholung        | die Wiederholung        | der Wiederholung        | die Wiederholungen        | repetition                |
 | die Wirtschaft          | die Wirtschaft          | die Wirtschaft          | der Wirtschaft          | die Wirtschaften          | economy                   |
 | die Wohngegend          | die Wohngegend          | die Wohngegend          | der Wohngegend          | die Wohngegenden          | residential area          |
+| die Vergangenheit       | die Vergangenheit       | die Vergangenheit       | der Vergangenheit       | die Vergangenheiten       | past                      |
 
 ## das
 
-| Word           | Nominative     | Accusative     | Dative         | Plural          | English Meaning         |
-|----------------|----------------|----------------|----------------|-----------------|-------------------------|
-| das Ballett    | das Ballett    | das Ballett    | dem Ballett    | die Ballette    | ballet                  |
-| das Eigentum   | das Eigentum   | das Eigentum   | dem Eigentum   | die Eigentume   | property                |
-| das Gefühl     | das Gefühl     | das Gefühl     | dem Gefühl     | die Gefühle     | feeling                 |
-| das Gehalt     | das Gehalt     | das Gehalt     | dem Gehalt     | die Gehälter    | salary                  |
-| das Geschäft   | das Geschäft   | das Geschäft   | dem Geschäft   | die Geschäfte   | store                   |
-| das Gesetz     | das Gesetz     | das Gesetz     | dem Gesetz     | die Gesetze     | law                     |
-| das Gift       | das Gift       | das Gift       | dem Gift       | die Gifte       | poison                  |
-| das Handy      | das Handy      | das Handy      | dem Handy      | die Handys      | cell phone              |
-| das Insekt     | das Insekt     | das Insekt     | dem Insekt     | die Insekten    | insect                  |
-| das Internet   | das Internet   | das Internet   | dem Internet   | (no plural)     | internet                |
-| das Karate     | das Karate     | das Karate     | dem Karate     | die Karates     | karate                  |
-| das Konzept    | das Konzept    | das Konzept    | dem Konzept    | die Konzepte    | concept                 |
-| das Lachen     | das Lachen     | das Lachen     | dem Lachen     | die Lachen      | laughter                |
-| das Medikament | das Medikament | das Medikament | dem Medikament | die Medikamente | medicine                |
-| das meiste     | das meiste     | das meiste     | dem meisten    | die meisten     | most                    |
-| das Mobbing    | das Mobbing    | das Mobbing    | dem Mobbing    | die Mobbings    | bullying                |
-| das Reiten     | das Reiten     | das Reiten     | dem Reiten     | die Reiten      | horse riding            |
-| das Studium    | das Studium    | das Studium    | dem Studium    | die Studien     | university studies      |
-| das Wetter     | das Wetter     | das Wetter     | dem Wetter     | die Wetter      | weather                 |
+| Word           | Nominative     | Accusative     | Dative         | Plural          | English Meaning    |
+|----------------|----------------|----------------|----------------|-----------------|--------------------|
+| das Ballett    | das Ballett    | das Ballett    | dem Ballett    | die Ballette    | ballet             |
+| das Eigentum   | das Eigentum   | das Eigentum   | dem Eigentum   | die Eigentume   | property           |
+| das Gefühl     | das Gefühl     | das Gefühl     | dem Gefühl     | die Gefühle     | feeling            |
+| das Gehalt     | das Gehalt     | das Gehalt     | dem Gehalt     | die Gehälter    | salary             |
+| das Geschäft   | das Geschäft   | das Geschäft   | dem Geschäft   | die Geschäfte   | store              |
+| das Gesetz     | das Gesetz     | das Gesetz     | dem Gesetz     | die Gesetze     | law                |
+| das Gift       | das Gift       | das Gift       | dem Gift       | die Gifte       | poison             |
+| das Handy      | das Handy      | das Handy      | dem Handy      | die Handys      | cell phone         |
+| das Insekt     | das Insekt     | das Insekt     | dem Insekt     | die Insekten    | insect             |
+| das Internet   | das Internet   | das Internet   | dem Internet   | (no plural)     | internet           |
+| das Karate     | das Karate     | das Karate     | dem Karate     | die Karates     | karate             |
+| das Konzept    | das Konzept    | das Konzept    | dem Konzept    | die Konzepte    | concept            |
+| das Lachen     | das Lachen     | das Lachen     | dem Lachen     | die Lachen      | laughter           |
+| das Medikament | das Medikament | das Medikament | dem Medikament | die Medikamente | medicine           |
+| das meiste     | das meiste     | das meiste     | dem meisten    | die meisten     | most               |
+| das Mobbing    | das Mobbing    | das Mobbing    | dem Mobbing    | die Mobbings    | bullying           |
+| das Reiten     | das Reiten     | das Reiten     | dem Reiten     | die Reiten      | horse riding       |
+| das Studium    | das Studium    | das Studium    | dem Studium    | die Studien     | university studies |
+| das Wetter     | das Wetter     | das Wetter     | dem Wetter     | die Wetter      | weather            |
+| das Ereignis   | das Ereignis   | das Ereignis   | dem Ereignis   | die Ereignisse  | event              |
 
 ## Other Words
 
