@@ -1,27 +1,63 @@
-### Verb Conjugation Practice (Präsens)
+# Verb Conjugation Practice (Präsens) / Verbkonjugation-Übung (Präsens)
 
 Fill in the correct verb form in the present tense.
+*Füllen Sie die richtige Verbform im Präsens aus.*
 
-**sein (to be)**
-1. Ich \_\_\_ müde. (bin)
-2. Du \_\_\_ mein Freund. (bist)
-3. Er \_\_\_ hier. (ist)
-4. Wir \_\_\_ aus Deutschland. (sind)
-5. Ihr \_\_\_ schnell. (seid)
-6. Sie \_\_\_ nett. (sind)
+## sein (to be)
 
-**haben (to have)**
-7. Ich \_\_\_ ein Buch. (habe)
-8. Du \_\_\_ eine Frage. (hast)
-9. Sie \_\_\_ ein Auto. (hat)
-10. Wir \_\_\_ Zeit. (haben)
-11. Ihr \_\_\_ Glück. (habt)
-12. Sie \_\_\_ Hunger. (haben)
+1. Ich___müde.
+2. Du___mein Freund.
+3. Er___hier.
+4. Wir___aus Deutschland.
+5. Ihr___schnell.
+6. Sie___nett.
 
-**Regular verbs (e.g., machen, lernen, wohnen)**
-13. Ich \_\_\_ meine Hausaufgaben. (mache)
-14. Du \_\_\_ Deutsch. (lernst)
-15. Er \_\_\_ in Berlin. (wohnt)
-16. Wir \_\_\_ eine Pause. (machen)
-17. Ihr \_\_\_ viel. (lernt)
-18. Sie \_\_\_ in einem Haus. (wohnen)
+## haben (to have)
+
+1. Ich___ein Buch.
+2. Du___eine Frage.
+3. Sie___ein Auto.
+4. Wir___Zeit.
+5. Ihr___Glück.
+6. Sie___Hunger.
+
+## Regular verbs (e.g., machen, lernen, wohnen)
+
+1. Ich___meine Hausaufgaben.
+2. Du___Deutsch.
+3. Er___in Berlin.
+4. Wir___eine Pause.
+5. Ihr___viel.
+6. Sie___in einem Haus.
+
+---
+
+## Answer Key
+
+### Answers for sein (to be)
+
+1. bin
+2. bist
+3. ist
+4. sind
+5. seid
+6. sind
+
+### Answers for haben (to have)
+
+1. habe
+2. hast
+3. hat
+4. haben
+5. habt
+6. haben
+
+### Answers for Regular verbs
+
+1. mache
+2. lernst
+3. wohnt
+4. machen
+5. lernt
+6. wohnen
+

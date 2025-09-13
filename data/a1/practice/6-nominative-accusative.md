@@ -4,36 +4,36 @@ Fill in **der / den / die / das**. The case of a noun depends on its function in
 for the subject (who is doing the action), and the accusative case is for the direct object (who or what is
 receiving the action). Remember, only the masculine article changes from "der" to "den" in the accusative case.
 
-1. Ich sehe ___ Mann.
-2. ___ Mann sieht das Kind.
-3. Wir haben ___ Auto.
-4. Sie besucht ___ Frau.
-5. ___ Kind hat den Saft.
-6. ___ Vogel fliegt.
-7. Ich kaufe ___ Tisch.
-8. Sie isst ___ Pizza.
-9. ___ Hund rennt.
-10. Er trinkt ___ Wasser.
-11. ___ Buch ist interessant.
-12. Er liest ___ Buch.
-13. ___ Katze schläft.
-14. Ich sehe ___ Katze.
-15. ___ Lehrerin erklärt die Regel.
-16. Er sucht ___ Schlüssel.
-17. ___ Freundin hat ein Geschenk.
-18. Ich brauche ___ Handy.
-19. ___ Brot schmeckt gut.
-20. Wir essen ___ Brot.
-21. ___ Student lernt Deutsch. ❗
-22. Er fragt ___ Student. ❗
-23. ___ Vater kocht.
-24. Wir besuchen ___ Vater.
-25. ___ Lampe ist kaputt.
-26. Ich repariere ___ Lampe.
-27. ___ Kind malt ein Bild. ❗
-28. Ich sehe ___ Kind. ❗
-29. ___ Zug fährt schnell.
-30. Wir nehmen ___ Zug.
+1. Ich sehe___Mann.
+2.___Mann sieht das Kind.
+3. Wir haben___Auto.
+4. Sie besucht___Frau.
+5.___Kind hat den Saft.
+6.___Vogel fliegt.
+7. Ich kaufe___Tisch.
+8. Sie isst___Pizza.
+9.___Hund rennt.
+10. Er trinkt___Wasser.
+11.___Buch ist interessant.
+12. Er liest___Buch.
+13.___Katze schläft.
+14. Ich sehe___Katze.
+15.___Lehrerin erklärt die Regel.
+16. Er sucht___Schlüssel.
+17.___Freundin hat ein Geschenk.
+18. Ich brauche___Handy.
+19.___Brot schmeckt gut.
+20. Wir essen___Brot.
+21.___Student lernt Deutsch. ❗
+22. Er fragt___Student. ❗
+23.___Vater kocht.
+24. Wir besuchen___Vater.
+25.___Lampe ist kaputt.
+26. Ich repariere___Lampe.
+27.___Kind malt ein Bild. ❗
+28. Ich sehe___Kind. ❗
+29.___Zug fährt schnell.
+30. Wir nehmen___Zug.
 
 ---
 

@@ -4,36 +4,36 @@ Fill in the correct form. The verbs **sein** (to be) and **haben** (to have) are
 constantly in German. You must memorize their conjugations perfectly. They are essential for forming sentences at
 every level.
 
-1. Ich ___ Student.
-2. Wir ___ eine Lampe.
-3. Er ___ müde, denn er arbeitet. ❗
-4. Hast du einen Bruder? Ja, ich ___ zwei Brüder.
-5. Sie ___ Lehrer und sie ___ einen Stift. ❗
-6. Wir ___ aus Deutschland.
-7. Ich ___ Hunger.
-8. Du ___ 20 Jahre alt.
-9. Sie (she) ___ ein großes Haus.
-10. Ihr ___ durstig. ❗
-11. Sie (pl.) ___ ein Problem.
-12. Ihr ___ Zeit.
-13. Ich ___ krank.
-14. Er ___ ein Auto.
-15. Sie (formal) ___ höflich.
-16. Wir ___ einen Hund.
-17. ___ du einen Job?
-18. ___ ihr traurig? ❗
-19. Er ___ ein Telefon.
-20. Sie (pl.) ___ nett.
-21. Ich ___ eine Frage.
-22. Du ___ froh.
-23. Er ___ Geschwister.
-24. Wir ___ müde.
-25. Ihr ___ keine Ahnung. ❗
-26. Sie (formal) ___ in Berlin.
-27. Ich ___ aus Spanien.
-28. Er ___ eine Katze.
-29. Sie (she) ___ glücklich. ❗
-30. Wir ___ Geld.
+1. Ich___Student.
+2. Wir___eine Lampe.
+3. Er___müde, denn er arbeitet.
+4. Hast du einen Bruder? Ja, ich___zwei Brüder.
+5. Sie___Lehrer und sie___einen Stift.
+6. Wir___aus Deutschland.
+7. Ich___Hunger.
+8. Du___20 Jahre alt.
+9. Sie (she)___ein großes Haus.
+10. Ihr___durstig.
+11. Sie (pl.)___ein Problem.
+12. Ihr___Zeit.
+13. Ich___krank.
+14. Er___ein Auto.
+15. Sie (formal)___höflich.
+16. Wir___einen Hund.
+17.___du einen Job?
+18.___ihr traurig?
+19. Er___ein Telefon.
+20. Sie (pl.)___nett.
+21. Ich___eine Frage.
+22. Du___froh.
+23. Er___Geschwister.
+24. Wir___müde.
+25. Ihr___keine Ahnung.
+26. Sie (formal)___in Berlin.
+27. Ich___aus Spanien.
+28. Er___eine Katze.
+29. Sie (she)___glücklich.
+30. Wir___Geld.
 
 ---
 

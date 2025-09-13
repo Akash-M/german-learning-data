@@ -3,36 +3,36 @@
 Conjugate **machen**. Regular verbs follow a predictable pattern. You take the verb stem and add the appropriate
 ending for each person. This is a crucial skill for forming basic sentences.
 
-1. Ich ___ Hausaufgabe.
-2. Du ___ Sport.
-3. Er ___ Kaffee.
-4. Wir ___ das zusammen.
-5. Ihr ___ das schnell.
-6. Sie (pl.) ___ Musik.
-7. Ich ___ einen Kuchen.
-8. Du ___ die Tür auf.
-9. Sie (she) ___ ein Bild.
-10. Wir ___ einen Ausflug.
-11. Ihr ___ das Essen fertig.
-12. Sie (formal) ___ die Rechnung.
-13. Ich ___ mein Bett.
-14. Du ___ deine Hausaufgaben.
-15. Er ___ einen Fehler.
-16. Wir ___ eine Liste.
-17. Ihr ___ einen Plan.
-18. Sie (they) ___ einen Witz.
-19. Ich ___ eine Pause.
-20. Du ___ alles richtig.
-21. Sie (she) ___ die Arbeit.
-22. Wir ___ das Licht an.
-23. Ihr ___ eine Party.
-24. Sie (formal) ___ ein Foto.
-25. Ich ___ ein Gespräch.
-26. Du ___ eine Entscheidung.
-27. Er ___ einen Schritt.
-28. Wir ___ eine Entdeckung.
-29. Ihr ___ einen Test.
-30. Sie (they) ___ das Radio an.
+1. Ich___Hausaufgabe.
+2. Du___Sport.
+3. Er___Kaffee.
+4. Wir___das zusammen.
+5. Ihr___das schnell.
+6. Sie (pl.)___Musik.
+7. Ich___einen Kuchen.
+8. Du___die Tür auf.
+9. Sie (she)___ein Bild.
+10. Wir___einen Ausflug.
+11. Ihr___das Essen fertig.
+12. Sie (formal)___die Rechnung.
+13. Ich___mein Bett.
+14. Du___deine Hausaufgaben.
+15. Er___einen Fehler.
+16. Wir___eine Liste.
+17. Ihr___einen Plan.
+18. Sie (they)___einen Witz.
+19. Ich___eine Pause.
+20. Du___alles richtig.
+21. Sie (she)___die Arbeit.
+22. Wir___das Licht an.
+23. Ihr___eine Party.
+24. Sie (formal)___ein Foto.
+25. Ich___ein Gespräch.
+26. Du___eine Entscheidung.
+27. Er___einen Schritt.
+28. Wir___eine Entdeckung.
+29. Ihr___einen Test.
+30. Sie (they)___das Radio an.
 
 ---
 

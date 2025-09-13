@@ -1,19 +1,41 @@
-### Nouns and Articles Practice (Nominative & Accusative)
+# Nouns and Articles Practice (Nominative & Accusative) / Nomen und Artikel Übung (Nominativ & Akkusativ)
 
 Fill in the correct article (**der, die, das, den**).
+*Füllen Sie den richtigen Artikel aus (**der, die, das, den**).*
 
-1. \_\_\_ Mann liest. (der)
-2. Ich sehe \_\_\_ Frau. (die)
-3. \_\_\_ Kind spielt. (das)
-4. Er kauft \_\_\_ Apfel. (den)
-5. \_\_\_ Hund ist laut. (der)
-6. Sie hat \_\_\_ Katze. (die)
-7. Ich brauche \_\_\_ Stift. (den)
-8. \_\_\_ Buch ist interessant. (das)
-9. Er besucht \_\_\_ Freund. (den)
-10. \_\_\_ Sonne scheint. (die)
-11. Wir haben \_\_\_ Auto. (ein) -> *das*
-12. Du siehst \_\_\_ Vogel. (den)
-13. \_\_\_ Lehrerin spricht. (die)
-14. Ich esse \_\_\_ Käse. (den)
-15. \_\_\_ Haus ist groß. (das)
+1. ___Mann liest.
+2. Ich sehe___Frau.
+3. ___Kind spielt.
+4. Er kauft___Apfel.
+5. ___Hund ist laut.
+6. Sie hat___Katze.
+7. Ich brauche___Stift.
+8. ___Buch ist interessant.
+9. Er besucht___Freund.
+10. ___Sonne scheint.
+11. Wir haben___Auto.
+12. Du siehst___Vogel.
+13. ___Lehrerin spricht.
+14. Ich esse___Käse.
+15. ___Haus ist groß.
+
+---
+
+## Answer Key
+
+1. der
+2. die
+3. das
+4. den
+5. der
+6. die
+7. den
+8. das
+9. den
+10. die
+11. ein
+12. den
+13. die
+14. den
+15. das
+

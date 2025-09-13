@@ -1,35 +1,73 @@
-### Vowels Practice (Long vs. Short)
+# Vowels Practice (Long vs. Short) / Vokalübung (lang vs. kurz)
 
 Fill in the missing vowel(s). Remember that long vowels often appear with a single consonant, while short vowels are
 typically followed by a double consonant.
+*Füllen Sie die fehlenden Vokale aus. Denken Sie daran, dass lange Vokale oft mit einem einzelnen Konsonanten stehen, während kurze Vokale
+normalerweise von einem Doppelkonsonanten gefolgt werden.*
 
-1. H__se (Hase) - *a*
-2. M__nn (Mann) - *a*
-3. B__tt (Bett) - *e*
-4. sp__t (spät) - *ä*
-5. f__r (für) - *ü*
-6. K__nrad (Konrad) - *o*
-7. T__sch (Tisch) - *i*
-8. Fl__g (Flug) - *u*
-9. w__rm (warm) - *a*
-10. w__nn (wenn) - *e*
-11. B__rg (Berg) - *e*
-12. H__nde (Hunde) - *u*
-13. R__s (Reis) - *ei*
-14. B__ld (Bild) - *i*
-15. F__ß (Fuß) - *u*
-16. H__ft (Heft) - *e*
-17. B__cher (Bücher) - *ü*
-18. l__sen (lesen) - *e*
-19. M__nd (Mund) - *u*
-20. d__nn (dünn) - *ü*
-21. h__ren (hören) - *ö*
-22. d__s (das) - *a*
-23. s__cht (Sicht) - *i*
-24. H__lfe (Hilfe) - *i*
-25. M__nsch (Mensch) - *e*
-26. w__r (wir) - *i*
-27. h__t (hat) - *a*
-28. s__g (sag) - *a*
-29. L__nd (Land) - *a*
-30. str__ße (Straße) - *a*
+1. H__se 
+2. M__nn 
+3. B__tt 
+4. sp__t 
+5. f__r 
+6. K__nrad
+7. T__isch
+8. Fl__g
+9. w__rm
+10. w__nn
+11. B__rg
+12. H__nde
+13. R__s
+14. B__ld (Bild)
+15. F__ß
+16. H__ft
+17. B__cher
+18. l__sen
+19. M__nd
+20. d__nn
+21. h__ren
+22. d__s
+23. s__cht
+24. H__lfe
+25. M__nsch
+26. w__r
+27. h__t
+28. s__g
+29. L__nd
+30. str__ße
+
+---
+
+## Answer Key
+
+1. a
+2. a
+3. e
+4. ä
+5. ü
+6. o
+7. i
+8. u
+9. a
+10. e
+11. e
+12. u
+13. ei
+14. i
+15. u
+16. e
+17. ü
+18. e
+19. u
+20. ü
+21. ö
+22. a
+23. i
+24. i
+25. e
+26. i
+27. a
+28. a
+29. a
+30. a
+
