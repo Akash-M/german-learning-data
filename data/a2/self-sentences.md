@@ -32,7 +32,5 @@ Beispiel: Vorgabe: „mein – Bruder – besuchen“ → „Ich besuche meinen 
 11.	unser – Lehrer – fragen -> Wir fragen unseren Lehrer, wenn in der Klasse etwas nicht verstehen.
 12.	meine – Oma – Blumen – schenken -> Meine Oma schenkt ihren Freundinnen Blumen zum Muttertag.
 13.	eure – Freunde – einladen -> Eure Freunde laden uns zu ihrer Party ein, weil sie in eine neue Wohnung eingezogen sind.
-14.	ihr – Laptop – kaufen
-15.	mein – Sohn – Fußball – spielen
-    -> Mein Sohn spielt Fußball mit den Freunden, wenn Sommer ist.
-    -> Mein Sohn spielt Fußball, weil das sein Lieblingssport ist.
+14.	ihr – Laptop – kaufen -> Ihr kauft euren Laptop bei MediaMarktSaturn, weil dort ein Angebot ist. 
+15.	mein – Sohn – Fußball – spielen -> Mein Sohn spielt Fußball mit den Freunden, wenn Sommer ist.
