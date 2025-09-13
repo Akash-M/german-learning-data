@@ -28,9 +28,6 @@ Fill in the correct dative article (dem / der / den).
 
 ## Answer Key
 
----
-## Answer Key
-
 1. dem
 2. der
 3. den
